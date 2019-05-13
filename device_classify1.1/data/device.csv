@@ -1,0 +1,768 @@
+device,info,ip
+router,"             www google com              ]    B              www google com              \    B HTTP/1.1 500 Server Error  Date: Mon, 08 Apr 2019 20:13:48 GMT  Server: Boa/0.94.14rc21  Accept-Ranges: bytes  Content-encoding: gzip  Connection: close  Content-Type: text/html; charset=ISO-8859-1    <HTML><HEAD><TITLE>500 Server Error</TITLE></HEAD> <BODY><H1>500 Server Error</H1> The server encountered an internal error and could not complete your request. </BODY></HTML> ",1.20.211.5
+router,"HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 04:56:27 GMT  Server: App-webs/  ETag: ""380-1e0-5784b16e""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Tue, 12 Jul 2016 08:59:26 GMT       <!doctype html>  <html>  <head>   <title></title>   <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />   <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" >   <meta http-equiv=""Pragma"" content=""no-cache"" />   <meta http-equiv=""Cache-Control"" content=""no-cache, must-revalidate"" />   <meta http-equiv=""Expires"" content=""0"" />  </head>  <body>  </body>  <script>   window.location.href = ""/doc/page/login.asp?_"" + (new Date()).getTime();  </script>  </html>RTSP/1.0 404 Not Found  CSeq: 1    ",111.201.81.230
+router,"HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:33:12 GMT  Server: App-webs/  ETag: ""639-1e1-564fd2e4""  Content-Length: 481  Content-Type: text/html  Connection: close  Last-Modified: Sat, 21 Nov 2015 02:11:48 GMT       <!doctype html>  <html>  <head>   <title></title>   <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />   <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" >   <meta http-equiv=""Pragma"" content=""no-cache"" />   <meta http-equiv=""Cache-Control"" content=""no-cache, must-revalidate"" />   <meta http-equiv=""Expires"" content=""0"" />  </head>  <body>  </body>  <script>   window.location.href = ""./doc/page/login.asp?_"" + (new Date()).getTime();  </script>  </html>",114.216.171.106
+router,"HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:26:10 GMT  Server: App-webs/  ETag: ""380-1e0-5784b16e""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Tue, 12 Jul 2016 08:59:26 GMT       <!doctype html>  <html>  <head>   <title></title>   <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />   <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" >   <meta http-equiv=""Pragma"" content=""no-cache"" />   <meta http-equiv=""Cache-Control"" content=""no-cache, must-revalidate"" />   <meta http-equiv=""Expires"" content=""0"" />  </head>  <body>  </body>  <script>   window.location.href = ""/doc/page/login.asp?_"" + (new Date()).getTime();  </script>  </html>HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:26:11 GMT  Server: App-webs/  ETag: ""380-1e0-5784b16e""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Tue, 12 Jul 2016 08:59:26 GMT       <!doctype html>  <html>  <head>   <title></title>   <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />   <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" >   <meta http-equiv=""Pragma"" content=""no-cache"" />   <meta http-equiv=""Cache-Control"" content=""no-cache, must-revalidate"" />   <meta http-equiv=""Expires"" content=""0"" />  </head>  <body>  </body>  <script>   window.location.href = ""/doc/page/login.asp?_"" + (new Date()).getTime();  </script>  </html>HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:26:11 GMT  Server: App-webs/  Content-Length: 0  Content-Type: text/html  Connection: close  Allow: OPTIONS,TRACE,GET,HEAD,POST,PUT,DELETE    HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:26:11 GMT  Server: App-webs/  ETag: ""380-1e0-5784b16e""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Tue, 12 Jul 2016 08:59:26 GMT       <!doctype html>  <html>  <head>   <title></title>   <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />   <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" >   <meta http-equiv=""Pragma"" content=""no-cache"" />   <meta http-equiv=""Cache-Control"" content=""no-cache, must-revalidate"" />   <meta http-equiv=""Expires"" content=""0"" />  </head>  <body>  </body>  <script>   window.location.href = ""/doc/page/login.asp?_"" + (new Date()).getTime();  </script>  </html>HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:26:12 GMT  Server: App-webs/  Content-Length: 0  Content-Type: text/html  Connection: close  Allow: OPTIONS,TRACE,GET,HEAD,POST,PUT,DELETE    HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:26:12 GMT  Server: App-webs/  Content-Length: 0  Content-Type: text/html  Connection: close  Allow: OPTIONS,TRACE,GET,HEAD,POST,PUT,DELETE    HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:26:12 GMT  Server: App-webs/  ETag: ""380-1e0-5784b16e""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Tue, 12 Jul 2016 08:59:26 GMT       <!doctype html>  <html>  <head>   <title></title>   <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />   <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" >   <meta http-equiv=""Pragma"" content=""no-cache"" />   <meta http-equiv=""Cache-Control"" content=""no-cache, must-revalidate"" />   <meta http-equiv=""Expires"" content=""0"" />  </head>  <body>  </body>  <script>   window.location.href = ""/doc/page/login.asp?_"" + (new Date()).getTime();  </script>  </html>HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:26:13 GMT  Server: App-webs/  ETag: ""380-1e0-5784b16e""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Tue, 12 Jul 2016 08:59:26 GMT       <!doctype html>  <html>  <head>   <title></title>   <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />   <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" >   <meta http-equiv=""Pragma"" content=""no-cache"" />   <meta http-equiv=""Cache-Control"" content=""no-cache, must-revalidate"" />   <meta http-equiv=""Expires"" content=""0"" />  </head>  <body>  </body>  <script>   window.location.href = ""/doc/page/login.asp?_"" + (new Date()).getTime();  </script>  </html>",114.216.171.118
+router,"HTTP/1.0 200 OK  Server: GoAhead-Webs  Pragma: no-cache  Cache-control: no-cache  Content-Type: text/html    <!DOCTYPE html> <html> <head> <meta http-equiv=""Content-Type"" content=""text/html; charset=ISO-8859-1""> <meta http-equiv=""Pragma"" content=""no-cache""> <title>AG 5800: Login</title> </head> <body bgcolor=""white"" onLoad=""doLoad()""> <br><center><img border=0 src=../image.gif> <table bgcolor=""#E0E0C2"" border=0 cellPadding=0 cellSpacing=0 width=400> <tr><td>&nbsp; <table bgcolor=""#E0E0C2"" border=0 cellPadding=1 cellSpacing=1 width=400> <script language=JavaScript> <!--  var tableTag = '</table>'; document.write(tableTag); // --> </script> <script language=JavaScript> <!--  var tableEnd = '</td></tr>'; document.write(tableEnd); // --> </script> <script language=JavaScript> <!--  var tableTag = '</table>'; document.write(tableTag); // --> </script> <script language=JavaScript> <!-- var defaultWidth = 400; var screenWidth = 800; var browser = navigator.userAgent.toLowerCase(); if ((browser.indexOf('windows ce')>0) &&  (browser.indexOf('240x320')>0)) { screenWidth = 240; } screenWidth *= 0.9; var tableWidth = ( (defaultWidth < screenWidth) ?         defaultWidth : screenWidth ); --> </script> <script language=JavaScript> <!--  var tableTag = '<table bgcolor=""#E0E0C2"" border=0 cellPadding=0 cellSpacing=0 width='+tableWidth+'>\n'; document.write(tableTag); // --> </script> <script language=JavaScript> <!--  var tableStartTag = '<tr><td>&nbsp;'; document.write(tableStartTag); // --> </script> <form id='loginform' name=loginform1 accept-charset=""ISO-8859-1"" action=http://login.nomadix.com:1111/usg/newuser method=POST  onsubmit=   ""try   { if (!validator()) return false; }    catch (e) { }    finally  {     var inputs = this.getElementsByTagName('input');     for (var i = 0; i < inputs.length; i++)      if (inputs[i].type == 'hidden')       inputs[i].value = decodeURIComponent(inputs[i].value);    }    return true;""> <input type=hidden name=OS value=""""> <input type=hidden name=IP value=""121.248.48.3""> <table bgcolor=""#E0E0C2"" border=0 cellPadding=1 cellSpacing=1 width=400> <tr>  <td>   <font size=2 face=""Verdana""><b>&nbsp;Are you a new user?  Click this button:</b>   </font><br><br>  </td> </tr> <tr>  <td align=right>   <input type=submit name=button value=""New User"">   &nbsp;&nbsp;&nbsp;<br>  </td> </tr> <script language=JavaScript> <!--  var tableTag = '</table>'; document.write(tableTag); // --> </script>  </form> </td> </tr> <tr> <td> <form name=loginform3 action='https://www.facebook.com/dialog/oauth'> <input type=hidden name=client_id> <input type=hidden name=redirect_uri> <input type=hidden name=state value=''>  <table width='100%'> <tr><td id='fb_sep1' style='display:none'><hr/></td></tr> <tr><td id='fb_msg' style='display:none'><font size=2>  <b>&nbsp;<span></span></b> </font></td></tr> <tr><td id='fb_desc' style='display:none'><font size=2>  <b>&nbsp;<span></span></b> </font><br><br></td></tr>  </table> <table width='100%'>  <tr><td id='fb_btn' style='display:none' align=right>   <input type=image src='../resources/facebook_login_button.png'>   &nbsp;&nbsp;&nbsp;<br>  </td></tr> </table> </form> </td> </tr> <tr><td><table width='100%'>  <tr><td id='fb_sep2' style='display:none'><hr/></td></tr> </table></td></tr> <script type='text/javascript'> <!-- 'use strict';  function getQueryVariable(v) {   var vars = window.location.search.substring(1).split('&');   for (var i in vars) {    var pair = vars[i].split('=');    if (v == pair[0]) return pair[1];  }   return false; }  window.onload = function() {   //  // There is no guarentee that 'doLoad()' exists,   // so wrap this section in try/catch for those times it does not.   try {     var rc = doLoad();     if (rc == true) {         return;     }  }  catch (exc) {  }   var xmlhttp = ( window.XMLHttpRequest ?        new XMLHttpRequest() :        new ActiveXObject(""Microsoft.XMLHTTP"") );   if(typeof(Storage) != 'undefined') {    sessionStorage.removeItem('facebookLogin');  } else {    document.cookie =    'facebookLogin=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/';  }   xmlHTTP/1.1 200 Data follows  Server: GoAhead-Webs  Date: TUE APR 09 01:08:53 2019  Pragma: no-cache  Cache-Control: no-cache  Content-Type: text/html    <html><head><title>Document Error: Data follows</title></head>    <body><h2>Access Error: Data follows</h2>    when trying to obtain <b>&#x2F;.git&#x2F;HEAD</b><br><p>No handler for this URL &#x2F;.git&#x2F;HEAD</p></body></html>    HTTP/1.0 200 OK  ",118.122.228.97
+router,"   T     E  O h  G~      Ydiffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96    none    none                     D         +DH public key size > DH group key size(128)                  T  Q~\   ]$  4        Ydiffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96    none    none                     T  y    /28L 6Y       Ydiffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96    none    none                     T  r I   ^  r  g h0   Ydiffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96    none    none                     T   i    T  !  e0     Ydiffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96    none    none                          2   l                |S     y O     a{S   F-      F  ;   Jd   ^{       Q                      x ]Y~ m    n{     ]            ` wy  S M    *NF  1 ~x :  +    Y   %  _     X    vdT        @hK    2:d  G  t""   =   M ;    O  % MQ 5   F B   ;Wsso [  +  xhv8t             O z SSH-1.99-Cisco-1.25
+   T  4}KN   I N   <E    Ydiffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96    none    none                         (   h                 |S     y O     a{S   F-      F  ;   Jd   ^{       Q                      x ]Y~ m    n{     ]            ` wy  S M    *NF  1 ~x :  +    Y   %  _     X    vdT        @hK    2:d  G  t""   =   M ;    O  % MQ 5   F B   ;Wsso [  +  xhv8t             L]rtHTTP/1.1 401 Unauthorized  Date: Mon, 08 Apr 2019 15:52:25 GMT  Server: cisco-IOS  Connection: close  Accept-Ranges: none  WWW-Authenticate: Basic realm=""level_15 or view_access""    401 Unauthorized      User Access Verification    Username: ",124.65.132.54
+router,"HTTP/1.1 200 OK
+CONNECTION: close
+
+Date: Mon, 08 Apr 2019 17:04:43 GMT
+
+Last-Modified: Thu, 06 Jul 2017 07:49:38 GMT
+
+Etag: ""1499327378:35f4""
+
+CONTENT-LENGTH: 13812
+
+CONTENT-TYPE: text/html
+
+
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd""> <html> <head> <title>Intelbras</title> <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""> <meta http-equiv=""X-UA-Compatible"" content=""IE=6;IE=7; IE=8; IE=EmulateIE7""> <script type=""text/javascript"" src=""jsBase/lib/base64.js""></script> <script type=""text/javascript"" src=""jsBase/lib/md5.js""></script> <script type=""text/javascript"" src=""jsBase/lib/m1.2.js""></script> <script type=""text/javascript"" src=""jsBase/lib/more.js""></script> <script type=""text/javascript"" src=""jsCore/aes.js""></script> <script type=""text/javascript"" src=""jsCore/rsa.js""></script> <script type=""text/javascript"" src=""js/appAbility.js""></script> <script type=""text/javascript"" src=""jsCore/rpcCore.js""></script> <script type=""text/javascript"" src=""jsBase/lib/sea.js""></script> <script type=""text/javascript"" src=""jsCore/common.js""></script> <script type=""text/javascript"" src=""js/loginEx.js""></script> <script type=""text/javascript"" src=""js/publicFunc.js""></script> <script type=""text/javascript"" src=""js/system.js""></script> <script type=""text/javascript"" src=""/pluginVersion.js""></script> <script type=""text/javascript"" src=""/olp.js""></script> <script type=""
+RTSP/1.0 401 Unauthorized  CSeq: 1  WWW-Authenticate: Digest realm=""Login to VC9G1202247Y2"", nonce=""9d0c6f3164ca6bc8c006004d9a76cbba""    ",177.16.206.58
+router,HTTP/1.1 404 Not Found  Content-Type: text/html  Transfer-Encoding: chunked  Server: RomPager/4.07 UPnP/1.0  Connection: close  EXT:    ,187.171.94.7
+router,"HTTP/1.0 200 OK  Date: Sun Apr  1 03:52:47 2012  RTSP/1.0 401 Unauthorized  CSeq: 1  WWW-Authenticate: Digest realm=""Hikvision"", nonce=""084cc12837569979dc2176195a90f8c1"", stale=""FALSE""  WWW-Authenticate: Basic realm=""/""    ",187.5.114.211
+router,"HTTP/1.1 200 OK
+CONNECTION: close
+
+Date: Mon, 08 Apr 2019 15:05:06 GMT
+
+Last-Modified: Tue, 05 Apr 2016 09:27:43 GMT
+
+Etag: ""1459848463:4580""
+
+CONTENT-LENGTH: 17792
+
+CONTENT-TYPE: text/html
+
+
+
+  \239  \187  \191<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+
+<html> 
+
+<head>
+
+<title>Intelbras</title>
+
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" >
+
+<meta http-equiv=""X-UA-Compatible"" content=""IE=6;IE=7; IE=8; IE=EmulateIE7"" />
+
+<script type=""text/javascript"" src=""jsBase/lib/base64.js""></script>
+
+<script type=""text/javascript"" src=""jsBase/lib/md5.js""></script>
+
+<script type=""text/javascript"" src=""jsBase/lib/m1.2.js""></script>
+
+<script type=""text/javascript"" src=""jsBase/lib/more.js""></script>
+
+<script type=""text/javascript"" src=""jsCore/aes.js""></script>
+
+<script type=""text/javascript"" src=""jsCore/rsa.js""></script>
+
+<script type=""text/javascript"" src=""js/appAbility.js""></script>
+
+<script type=""text/javascript"" src=""jsCore/rpcCore.js""></script>
+
+<script type=""text/javascript"" src=""jsBase/lib/sea.js""></script>
+
+<script type=""text/javascript"" src=""jsCore/common.js""></script>
+
+<script type=""text/javascript"" src=""js/loginEx.js""></script>
+
+<script type=""text/javascript"" src=""js/publicFunc.js""></script>
+
+<script type=""text/javascript"" src=""js/system.js""></script>
+
+<script type=""text/javascript"" src=""/pluginVersion.js""></script>
+
+<script type=""text/javascript"" src=""/olp.j
+",187.5.114.26
+router,"RTSP/1.0 200 OK  Server: H264DVR 1.0  Cseq: 1  Public: OPTIONS, DESCRIBE, SETUP, TEARDOWN, GET_PARAMETER, SET_PARAMETER, PLAY, PAUSE    HTTP/1.0 200 OK  HTTP/1.0 200 OK  HTTP/1.1 405 Method Not Allowed
+Server: gSOAP/2.7
+
+Content-Type: text/xml; charset=utf-8
+
+Content-Length: 2959
+
+Connection: close
+
+
+
+<?xml version=""1.0"" encoding=""UTF-8""?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV=""http://schemas.xmlsoap.org/soap/envelope/"" xmlns:SOAP-ENC=""http://schemas.xmlsoap.org/soap/encoding/"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xmlns:xsd=""http://www.w3.org/2001/XMLSchema"" xmlns:xs=""http://www.w3.org/2000/10/XMLSchema"" xmlns:wsse=""http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd"" xmlns:wsa5=""http://www.w3.org/2005/08/addressing"" xmlns:xop=""http://www.w3.org/2004/08/xop/include"" xmlns:wsa=""http://schemas.xmlsoap.org/ws/2004/08/addressing"" xmlns:tt=""http://www.onvif.org/ver10/schema"" xmlns:ns1=""http://www.w3.org/2005/05/xmlmime"" xmlns:wstop=""http://docs.oasis-open.org/wsn/t-1"" xmlns:ns7=""http://docs.oasis-open.org/wsrf/r-2"" xmlns:ns2=""http://docs.oasis-open.org/wsrf/bf-2"" xmlns:dndl=""http://www.onvif.org/ver10/network/wsdl/DiscoveryLookupBinding"" xmlns:dnrd=""http://www.onvif.org/ver10/network/wsdl/RemoteDiscoveryBinding"" xmlns:d=""http://schemas.xmlsoap.org/ws/2005/04/discovery"" xmlns:dn=""http://www.onvif.org/ver10/network/wsdl"" xmlns:ns10=""http://www.onvif.org/ver10/replay/wsdl"" xmlns:ns11=""http://www.onvif.org/ver10/search/wsdl"" xmlns:ns13=""http://www.onvif.org/ver20/analytics/wsdl/RuleEngineBinding"" xmlns:ns14=""http://www.onvif.org/ver20/analytics/wsdl/AnalyticsEn
+",187.5.114.39
+router,HTTP/1.1 404 Not Found  Content-Type: text/html  Transfer-Encoding: chunked  Server: RomPager/4.07 UPnP/1.0  Connection: close  EXT:    ,189.173.56.28
+router,"HTTP/1.1 200 Ok  Server: micro_httpd  Cache-Control: no-cache  Date: Mon, 08 Apr 2019 13:43:33 GMT  Content-Type: text/html  Connection: close    <html> <head> <meta http-equiv=""Pragma"" content=""no-cache""/> <title>300Mbps Wireless N USB ADSL2+ Modem Router TD-W8968</title> <style type=""text/css""> body {  font-family: Arial,sans-serief;  background-color: #E5E5E5;  margin: 0px;  padding: 0px; } div.loginBox {  display: block;  position: relative;  margin-top: 10%;  text-align: center; } .noteDiv {  color: gray;  font-family: Arial;  width: 395px;  text-align: left;  margin: 0px auto;  font-size: 14px; } div.panelThre {  margin-top:10px; } div.picDiv {  width: 395px;  height: 276px;  background: url(login_bg2.png);  position: relative; } input.pcPassword {  width: 300px;  height: 50px;  line-height: 50px;  padding-left: 20px; } ul {  padding: 60px 0px 0px 0px;  margin: 0px;  list-style: none; } ul li {  height: 34px;  width: 222px; } li.unLi {  background: url(login_idunselect.png); } li.pwLi {  background: url(login_pwunselect.png); } li.blank {  height: 15px; } button.loginBtn {  height: 34px;  display: inline-block;  width: 113px;  border: 0px;  margin-top: 30px;  background: url(login.png);  cursor: pointer; } input.text {  border: 0px;  height: 26px;  line-height: 26px;  width: 175px;  padding: 0px;  margin: 4px 0px 0px 30px;  font-size: 14px;  color: #6a6969;  font-family: Verdana,Arial;  font-weight: regular;  o128);  00000010: 09 09 75 74 66 74 65 78 74 20 2b 3d 20 53 74 72   utftext += Str
+00000020: 69 6e 67 2e 66 72 6f 6d 43 68 61 72 43 6f 64 65 ing.fromCharCode
+00000030: 28 28 63 20 26 20 36 33 29 20 7c 20 31 32 38 29 ((c & 63) | 128)
+00000040: 3b 0a 09 09 7d 0a 09 7d 0a 09 72 65 74 75 72 6e ;   }  }  return
+00000050: 20 75 74 66 74 65 78 74 3b 0a 7d 0a 66 75 6e 63  utftext; } func
+00000060: 74 69 6f 6e 20 50 43 57 69 6e 28 65 76 65 6e 74 tion PCWin(event
+00000070: 29 20 7b 0a 09 69 66 20 28 65 76 65 6e 74 2e 6b ) {  if (event.k
+00000080: 65 79 43 6f 64 65 20 3d 3d 20 31 33 29 20 7b 0a eyCode == 13) { 
+00000090: 09 09 50 43 53 75 62 57 69 6e 28 29 3b 0a 09 7d   PCSubWin();  }
+000000a0: 0a 7d 0a 66 75 6e 63 74 69 6f 6e 20 50 43 53 75  } function PCSu
+000000b0: 62 57 69 6e 30 28 29 20 7b 0a 09 76 61 72 20 70 bWin0() {  var p
+000000c0: 77 20 3d 20 24 28 27 70 63 50 61 73 73 77 6f 72 w = $('pcPasswor
+000000d0: 64 27 29 2c 20 70 77 32 20 3d 20 24 28 27 70 63 d'), pw2 = $('pc
+000000e0: 50 61 73 73 77 6f 72 64 32 27 29 3b 0a 09 76 61 Password2');  va
+000000f0: 72 20 70 77 64 20 3d 20 70 77 2e 76 61 6c 75 65 r pwd = pw.value
+00000100: 3b 0a 09 69 66 20 28 70 77 64 20 3d 3d 20 27 27 ;  if (pwd == ''
+00000110: 20 7c 7c 20 70 77 64 20 3d 3d 20 27 61 64 6d 69  || pwd == 'admi
+00000120: 6e 27 20 7c 7c 20 70 77 64 2e 69 6e 64 65 78 4f n' || pwd.indexO
+00000130: 66 28 27 20 27 29 20 21 3d 20 2d 31 29 20 7b 0a f(' ') != -1) { 
+00000140: 09 09 61 6c 65 72 74 28 27 50 61 73 73 77 6f 72   alert('Passwor
+00000150: 64 20 6d 75 73 74 20 62 65 20 73 65 74 20 61 6e d must be set an
+00000160: 64 20 6e 6f 74 20 62 65 20 22 61 64 6d 69 6e 22 d not be ""admin""
+00000170: 20 61 6e 64 20 6e 6f 74 20 63 6f 6e 74 61 69 6e  and not contain
+00000180: 20 61 20 73 70 61 63 65 21 27 29 3b 0a 09 09 70  a space!');   p
+00000190: 77 2e 66 6f 63 75 73 28 29 3b 0a 09 09 72 65 74 w.focus();   ret
+000001a0: 75 72 6e 20 66 61 6c 73 65 3b 0a 09 7d 0a 09 69 urn false;  }  i
+000001b0: 66 20 28 70 77 64 20 21 3d 20 70 77 32 2e 76 61 f (pwd != pw2.va
+000001c0: 6c 75 65 29 20 7b 0a 09 09 61 6c 65 72 74 28 27 lue) {   alert('
+000001d0: 54 68 65 20 63 6f 6e 66 69 72 6d 20 70 61 73 73 The confirm pass
+000001e0: 77 6f 72 64 20 6d 75 73 74 20 62 65 20 61 63 63 word must be acc
+000001f0: 6f 72 64 61 6e 74 20 77 69 74 68 20 74 68 65 20 ordant with the 
+00000200: 6e 65 77 20 70 61 73 73 77 6f 72 64 21 27 29 3b new password!');
+00000210: 0a 09 09 70 77 32 2e 66 6f 63 75 73 28 29 3b 0a    pw2.focus(); 
+00000220: 09 09 72 65 74 75 72 6e 20 66 61 6c 73 65 3b 0a   return false; 
+00000230: 09 7d 0a 09 72 65 74 75 72 6e 20 74 72 75 65 3b  }  return true;
+00000240: 0a 7d 0a 66 75 6e 63 74 69 6f 6e 20 50 43 53 75  } function PCSu
+00000250: 62 57 69 6e 28 29 20 7b 0a 09 69 66 20 28 28 6e bWin() {  if ((n
+00000260: 6f 50 77 64 20 26 26 20 21 50 43 53 75 62 57 69 oPwd && !PCSubWi
+00000270: 6e 30 28 29 29 20 7c 7c 0a 09 09 28 21 6e 6f 50 n0()) ||   (!noP
+00000280: 77 64 20 26 26 20 69 73 4c 6f 63 6b 65 64 29 29 wd && isLocked))
+00000290: 20 7b 0a 09 09 72 65 74 75 72 6e 3b 0a 09 7d 0a  {   return;  } 
+000002a0: 09 76 61 72 20 61 75 74 68 3b 0a 09 76 61 72 20  var auth;  var 
+000002b0: 70 61 73 73 77 6f 72 64 20 3d 20 24 28 22 70 63 password = $(""pc
+000002c0: 50 61 73 73 77 6f 72 64 22 29 2e 76 61 6c 75 65 Password"").value
+000002d0: 3b 0a 09 76 61 72 20 75 73 65 72 4e 61 6d 65 20 ;  var userName 
+000002e0: 3d 20 24 28 22 75 73 65 72 4e 61 6d 65 22 29 2e = $(""userName"").
+000002f0: 76 61 6c 75 65 3b 0a 09 61 75 74 68 20 3d 20 22 value;  auth = ""
+00000300: 42 61 73 69 63 20 22 2b 42 61 73 65 36 34 45 6e Basic ""+Base64En
+00000310: 63 6f 64 69 6e 67 28 75 73 65 72 4e 61 6d 65 2b coding(userName+
+00000320: 22 3a 22 2b 70 61 73 73 77 6f 72 64 29 3b 0a 09 "":""+password);  
+00000330: 64 6f 63 75 6d 65 6e 74 2e 63 6f 6f 6b 69 65 20 document.cookie 
+00000340: 3d 20 22 41 75 74 68 6f 72 69 7a 61 74 69 6f 6e = ""Authorization
+00000350: 3d 22 20 2b 20 61 75 74 68 3b 0a 09 6c 6f 63 61 ="" + auth;  loca
+00000360: 74 69 6f 6e 2e 72 65 6c 6f 61 64 28 29 3b 0a 7d tion.reload(); }
+00000370: 0a 66 75 6e 63 74 69 6f 6e 20 64 65 6c 65 74 65  function delete
+00000380: 43 6f 6f 6b 69 65 28 6e 61 6d 65 29 20 7b 0a 09 Cookie(name) {  
+00000390: 76 61 72 20 4c 61 72 67 65 45 78 70 44 61 74 65 var LargeExpDate
+000003a0: 20 3d 20 6e 65 77 20 44 61 74 65 28 29 3b 0a 09  = new Date();  
+000003b0: 64 6f 63 75 6d 65 6e 74 2e 63 6f 6f 6b 69 65 20 document.cookie 
+000003c0: 3d 20 6e 61 6d 65 20 2b 20 22 3d 3b 20 65 78 70 = name + ""=; exp
+000003d0: 69 72 65 73 3d 22 20 2b 4c 61 72 67 65 45 78 70 ires="" +LargeExp
+000003e0: 44 61 74 65 2e 74 6f 47 4d 54 53 74 72 69 6e 67 Date.toGMTString
+000003f0: 28 29 3b 0a 7d 0a 66 75 6e 63 74 69 6f 6e 20 77 (); } function w
+00000400: 28 73 74 72 29 20 7b 0a 09 64 6f 63 75 6d 65 6e (str) {  documen
+00000410: 74 2e 77 72 69 74 65 28 73 74 72 29 3b 0a 7d 0a t.write(str); } 
+00000420: 66 75 6e 63 74 69 6f 6e 20 24 28 69 64 29 20 7b function $(id) {
+00000430: 0a 09 72 65 74 75 72 6e 20 64 6f 63 75 6d 65 6e   return documen
+00000440: 74 2e 67 65 74 45 6c 65 6d 65 6e 74 42 79 49 64 t.getElementById
+00000450: 28 69 64 29 3b 0a 7d 0a 66 75 6e 63 74 69 6f 6e (id); } function
+00000460: 20 6c 6f 63 6b 57 65 62 28 62 4c 6f 63 6b 29 20  lockWeb(bLock) 
+00000470: 7b 0a 09 24 28 22 75 73 65 72 4e 61 6d 65 22 29 {  $(""userName"")
+00000480: 2e 64 69 73 61 62 6c 65 64 20 3d 20 62 4c 6f 63 .disabled = bLoc
+00000490: 6b 3b 0a 09 24 28 22 70 63 50 61 73 73 77 6f 72 k;  $(""pcPasswor
+000004a0: 64 22 29 2e 64 69 73 61 62 6c 65 64 20 3d 20 62 d"").disabled = b
+000004b0: 4c 6f 63 6b 3b 0a 7d 0a                         Lock; } 
+
+",197.200.102.120
+router,"HTTP/1.1 200 OK  Date: Mon, 08 Apr 2019 17:32:04 GMT  Server: Embedthis-Appweb/3.2.3  Cache-Control: max-age=5184000  Expires: Fri, 19 Apr 2019 00:29:18 GMT  Content-Length: 0  Content-Type: text/html  Connection: close  Allow: OPTIONS,GET,HEAD,POST,PUT,DELETE    Protocol major versions differ.
+SSH-2.0-OpenSSH_6.4  ",208.185.224.1
+router,"RTSP/1.0 200 OK  Server: H264DVR 1.0  Cseq: 1  Public: OPTIONS, DESCRIBE, SETUP, TEARDOWN, GET_PARAMETER, SET_PARAMETER, PLAY, PAUSE    HTTP/1.0 200 OK  ",211.224.72.66
+router,"           1 =j ^  ^ u   ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                                      ;Nf v     ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                              P yN    / -   E   ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                                     ssh-rsa    #      *o  p < D U 5 UQ \*   e P     c   g     c 2f ~   -     q s \ ] G   c G}l; 8     H   H       9Q  X  P  < X  R<   j  S q 5 ~ ie  9  h   Y  w   Z   @ .           s  !   xEK`Q S   f<     q;%   N N  iD Y'  ,      t[  4E \n   yG    _  0V C  } e""  Q  =  `-    9      >Ay   a ) H M dB  p> F|   5S  #   [   Tu!^f_      W  2   9@           c >     f S C   gR F @                 b-   ? X m ~              ssh-rsa     - b d    A20    a  r        ro ] s 8  0d  5_ L$Q          + O   H  .e     oS Ty       .qN ~}B  jz+   ;    &   ;{ 5UPQS;= Z'     n    U M]  @ 2      u      6Wd N=~ * R %0P ""W m  0   2pe.   F 2^n d       B     }51f  U!!   /  N  U   gC<J A  $@ _   ~  N \ 0 F                          Protocol major versions differ.
+                   n <   ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                             ;   I dS C R  S    ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                       SSH-2.0-OpenSSH_5.5p1 Debian-6+squeeze5
+
+        ;  ~35  &        ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96   ihmac-md5,hmac-sha1,umac-64@openssh.com,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                                ss00000010: 68 2d 64 73 73 00 00 00 81 00 aa aa 6b f7 84 c4 h-dss       k   
+00000020: 6a e9 c4 b4 77 27 3f 11 c5 99 70 4c e7 b5 d4 72 j   w'?   pL   r
+00000030: a4 bd 42 ca c5 10 25 c5 2f 13 e4 f4 e8 a1 55 f2   B   % /     U 
+00000040: cd ed a4 dd a3 0f 03 2c 39 a7 8d ab de 53 a8 1f        ,9    S  
+00000050: 30 8d 5a 5c 55 f2 48 c8 21 61 be ea 46 bb f2 99 0 Z\U H !a  F   
+00000060: 30 5f 05 9b 43 1b a0 51 7b 13 2b e7 87 e0 42 b8 0_  C  Q{ +   B 
+00000070: 5a b8 b6 bf 71 1e c6 2e be 3a 68 1a 8e c3 86 97 Z   q  . :h     
+00000080: 68 ff 18 2c 79 35 20 35 0d ae 8c dd b1 7f f8 8a h  ,y5 5        
+00000090: 7c 1b 29 7a 46 1c ff 0b 8b 99 00 00 00 15 00 e6 | )zF           
+000000a0: 50 f7 13 d9 9c 57 4d a1 88 92 1f 72 84 4d d6 6b P    WM    r M k
+000000b0: f9 33 b9 00 00 00 80 74 8f e7 37 f0 14 4f 32 8e  3     t  7  O2 
+000000c0: 4d 60 40 ca db 7e 2f be db b1 a4 bd 8c 97 26 dc M`@  ~/       & 
+000000d0: 6c 5a 99 75 9c d2 03 fd b9 fa dd 93 97 4c 7c 38 lZ u         L|8
+000000e0: 29 aa 70 07 01 6d fe 95 90 88 a0 e2 f6 af f0 7a ) p  m         z
+000000f0: 97 60 e0 6d 44 eb 09 a6 9b b1 5a eb 1d 77 13 97  ` mD     Z  w  
+00000100: 88 56 54 35 8a 31 58 fd 7b e9 81 57 dd 6b a6 8e  VT5 1X {  W k  
+00000110: 1c 69 f9 75 ba fa b4 2b 91 a5 50 81 84 fe 29 41  i u   +  P   )A
+00000120: c9 4e 2f 5d 09 ad 0c 65 e2 f7 94 0b 8d 36 5a 5d  N/]   e     6Z]
+00000130: cb f9 02 c7 c7 9c ab 00 00 00 80 10 c6 41 40 24              A@$
+00000140: 64 50 ac 9d de 1f 1b eb 44 43 33 fa bf 84 24 74 dP      DC3   $t
+00000150: 37 97 f1 44 a3 3a 4a 75 5f 6f 87 aa 0f fe dc 93 7  D :Ju_o      
+00000160: 61 29 b7 f4 e2 b3 aa 2c 92 87 0c fc 0b 74 1e c1 a)     ,     t  
+00000170: 5a e3 f0 ae c8 91 3a 97 fd 3e ad 5c f6 ad da 36 Z     :  > \   6
+00000180: 8e 03 eb e7 37 59 e1 6a 2b 92 47 f9 7b 69 76 51     7Y j+ G {ivQ
+00000190: 0e 57 13 ca ce 58 7a f1 c1 05 0a 7a 04 9f 0f 0f  W   Xz    z    
+000001a0: bd 9c 5b 53 fe 6f f5 c7 89 d7 6f c5 74 ac 7c 26   [S o    o t |&
+000001b0: 7c c3 89 34 3b ab 8b 5d aa c9 6b 00 00 00 81 00 |  4;  ]  k     
+000001c0: a5 c5 11 b7 69 b2 c9 f5 ea 5e 55 3d d3 3e a9 40     i    ^U= > @
+000001d0: 19 83 64 1d bc e5 6f 92 be df 09 b0 c3 97 f3 89   d   o         
+000001e0: 5c 6b d0 f4 31 ec 85 77 22 ec f7 09 0d 24 de 74 \k  1  w""    $ t
+000001f0: 8e 83 83 15 66 f5 eb 01 e3 3b 02 8a bf c7 73 3a     f    ;    s:
+00000200: 17 e8 9a 54 d7 e2 be 08 98 93 07 c8 20 77 9e 01    T         w  
+00000210: 13 95 ae 17 f8 1a f4 52 12 d8 53 dc ad bb fb c1        R  S     
+00000220: 48 d2 7a bb f8 45 15 4e 86 06 fe 9d 7f 59 b6 01 H z  E N     Y  
+00000230: 0b 38 2c 20 c5 48 4a 50 f8 87 8d b0 31 ab 15 77  8,  HJP    1  w
+00000240: 00 00 00 37 00 00 00 07 73 73 68 2d 64 73 73 00    7    ssh-dss 
+00000250: 00 00 28 19 91 14 06 98 bf 99 d2 e0 df f8 3c 66   (           <f
+00000260: d2 c5 2e 13 95 cd d9 72 61 d4 61 fc f6 45 51 94   .    ra a  EQ 
+00000270: c2 14 2c 0d eb 5f fb 42 9f e1 05 00 00 00 00 00   ,  _ B        
+00000280: 00 00 00 0c 0a 15 00 00 00 00 00 00 00 00 00 00                 
+
+",217.145.84.4
+router,"    J   F        o   c U  u {  DU  t.<  FK     Sw`M  '+g $  !     N    g 7-+ /         {  x  u0  q0  Y         Fd L BZ0   * H        0x1 0   U    TW1 0   U    HsinChu1 0   U    HuKou1 0   U    DrayTek Corp.1 0   U    DrayTek Support1 0   U    Vigor Router0   180527184158Z  480526184158Z0x1 0   U    TW1 0   U    HsinChu1 0   U    HuKou1 0   U    DrayTek Corp.1 0   U    DrayTek Support1 0   U    Vigor Router0  ""0   * H             0          e    %  u    Wc | 9 Q4E               h 0   u    vDT   y       g NGJ  K  ?    54 k g Wr ;     >(  TOu   % q Hk    i  z        \l   P     {vT%   [  L  |       C  [ = Pv |   l'd  g        yi. A     x    k w*  p 13    ;        q  .  t  vZ V \b    v)  &   F      0   * H             R    &     Bp>$          [ '  i  i       Y*  # F  z   lN slzC !H 1   ""  *  a FYcc   9 N    2 l v[K  T.t ! K  ]y l ,  D    . g   U O  F   _ [  oYl  e     p  2 q  T n   b* '    ;  h    z    K  Z   B x1  '  }   p 3 6#MO At@h`   ck#    N     \ _   ]K1A   }^ B2         HTTP/1.1 200 OK
+Server: nginx
+
+Date: Mon, 08 Apr 2019 06:35:59 GMT
+
+Content-Type: text/html; charset=""UTF-8""
+
+Transfer-Encoding: chunked
+
+Connection: close
+
+Vary: Accept-Encoding
+
+Cache-control: no-store
+
+X-Content-Type-Options: nosniff
+
+X-XSS-Protection: 1; mode=block
+
+X-Frame-Options: SAMEORIGIN
+
+P3P: CP=""IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT""
+
+Content-Security-Policy: base-uri 'self';  connect-src ws: wss: *; default-src 'self' 'unsafe-eval' data: blob: https://*.synology.com https://www.synology.cn/; font-src 'self' data: https://*.googleapis.com https://*.gstatic.com; form-action 'self'; frame-ancestors 'self' https://gofile.me http://gofile.me; frame-src 'self' data: blob: https://*.synology.com https://www.synology.cn/ http://*.synology.com http://*.synology.cn; img-src 'self' data: blob: https://*.google.com https://*.googleapis.com http://*.googlecode.com https://*.gstatic.com; media-src 'self' data: about:;  report-uri webman/csp_report.cgi; script-src 'self' 'unsafe-eval' data: blob: https://*.synology.com https://www.synology.cn/ https://*.google.com https://*.googleapis.com; style-src 'self' 'unsafe-inline' https://*.googleapis.com;
+
+
+
+be0
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<meta http-equiv=""X-UA-Compatible"" content=""IE=11"" />
+<meta name=""msapplication-TileImage"" content=""resources/images/icon_tile.png?v=4398"" /
+",41.71.80.63
+router,HTTP/1.0 200 OK  ,42.117.187.213
+router,"HTTP/1.1 200 OK  Server: Mini web server 1.0 ZTE corp 2005.  Content-Type: text/html; charset=iso-8859-1  Accept-Ranges: bytes  Connection: close  Cache-Control: no-cache,no-store  Content-Length: 5030    ",45.247.255.139
+router,"HTTP/1.1 200 OK  Server: Mini web server 1.0 ZTE corp 2005.  Content-Type: text/html; charset=iso-8859-1  Accept-Ranges: bytes  Connection: close  Cache-Control: no-cache,no-store  Content-Length: 5031    ",45.247.255.223
+router,"HTTP/1.1 200 OK  X-Frame-Options: SAMEORIGIN  X-XSS-Protection: 1; mode=block  X-Content-Type-Options: nosniff  Date: Mon, 08 Apr 2019 20:40:23 GMT  Etag: ""5a2e9174.1682""  Content-Type: text/html  Content-Length: 1682  Connection: close  Accept-Ranges: bytes    ",46.150.162.72
+router,"HTTP/1.1 200 OK  Date: Mon, 08 Apr 2019 21:38:01 GMT  Server: App-webs/  Content-Length: 0  Content-Type: text/html  Connection: close  Allow: OPTIONS,TRACE,GET,HEAD,POST,PUT,DELETE    HTTP/1.1 200 OK  Date: Mon, 08 Apr 2019 21:52:38 GMT  Server: App-webs/  ETag: ""640-1e0-587ec4a1""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Wed, 18 Jan 2017 01:28:01 GMT    HTTP/1.0 200 OK  ",5.55.219.235
+router,"  System administrator is connecting from 121.248.48.3,   Reject the connection request !!!       +<M                    Vigor                                                           DrayTek                                                             J   F   Q  r J02 M     T     3Fv PH       u  s B4  8V       8 [ Zh >  8{ /     w   s  p  m0  i0  Q        0   * H        0x1 0   U    TW1 0   U    HsinChu1 0   U    HuKou1 0   U    DrayTek Corp.1 0   U    DrayTek Support1 0   U    Vigor Router0   140514060500Z  390514060500Z0x1 0   U    TW1 0   U    HsinChu1 0   U    HuKou1 0   U    DrayTek Corp.1 0   U    DrayTek Support1 0   U    Vigor Router0  ""0   * H             0          i4A     0 . ]?T9 Vh +g k    5 { uC   \U c   E""5   }V  u           -   s  Z    B v  7 A   S &Y  I    b  Q9)?     \3 &   9 _ZPA g   A X: T  N v6  Ja  -[   P   -( .)    EkX Q  $)   4cz  $    "" {  + D  :   )    \      W  C   N/@x  (< }  ( s /    nB    /m         0   * H               '        6~\ $ 1    ^  R d   (Ew  ,  ?  T:W} 9  Y  ""~  m   Y A   K6  .l    h          4#s6    ! /     G  `       s   O     r    MX  H\    -ua    t rKf  >. 6  LA)     B     ypo Q%    1Y .#    o  6 q  /   0)  ?  m    :   b   [  v        '   [ { ^ d 'K   ,L             J   F   Q    *   N  G$   <5/<  m }8[ ;   [ e   p  R   kR    z o)  X)  J! /     w   s  p  m0  i0  Q        0   * H        0x1 0   U    TW1 0   U    HsinChu1 0   U    HuKou1 0   U    DrayTek Corp.1 0   U    DrayTek Support1 0   U    Vigor Router0   140514060500Z  390514060500Z0x1 0   U    TW1 0   U    HsinChu1 0   U    HuKou1 0   U    DrayTek Corp.1 0   U    DrayTek Support1 0   U    Vigor Router0  ""0   * H             0          i4A     0 . ]?T9 Vh +g k    5 { uC   \U c   E""5   }V  u           -   s  Z    B v  7 A   S &Y  I    b  Q9)?     \3 &   9 _ZPA g   A X: T  N v6  Ja  -[   P   -( .)    EkX Q  $)   4cz  $    "" {  + D  :   )    \      W  C   N/@x  (< }  ( s /    nB    /m         0   * H               '        6~\ $ 1    ^  R d   (Ew  ,  ?  T:W} 9  Y  ""~  m   Y A   K6  .l    h          4#s6    ! /     G  `       s   O     r    MX  H\    -ua    t rKf  >. 6  LA)     B     ypo Q%    1Y .#    o  6 q  /   0)  ?  m    :   b   [  v        '   [ { ^ d 'K   ,L             J   F   Q  m     yh "";B [  c b  a   < G   W  p \   m            s0 X     /     w   s  p  m0  i0  Q        0   * H        0x1 0   U    TW1 0   U    HsinChu1 0   U    HuKou1 0   U    DrayTek Corp.1 0   U    DrayTek Support1 0   U    Vigor Router0   140514060500Z  390514060500Z0x1 0   U    TW1 0   U    HsinChu1 0   U    HuKou1 0   U    DrayTek Corp.1 0   U    DrayTek Support1 0   U    Vigor Router0  ""0   * H             0          i4A     0 . ]?T9 Vh +g k    5 { uC   \U c   E""5   }V  u           -   s  Z    B v  7 A   S &Y  I    b  Q9)?     \3 &   9 _ZPA g   A X: T  N v6  Ja  -[   P   -( .)    EkX Q  $)   4cz  $    "" {  + D  :   )    \      W  C   N/@x  (< }  ( s /    nB    /m         0   * H               '        6~\ $ 1    ^  R d   (Ew  ,  ?  T:W} 9  Y  ""~  m   Y A   K6  .l    h          4#s6    ! /     G  `       s   O     r    MX  H\    -ua    t rKf  >. 6  LA)     B     ypo Q%    1Y .#    o  6 q  /   0)  ?  m    :   b   [  v        '   [ { ^ d 'K   ,L         HTTP/1.0 501 Not Implemented
+Pragma: no-cache
+
+Content-type: text/html
+
+
+
+<HEAD><TITLE>501 Not Implemented</TITLE></HEAD>
+<BODY><H1>501 Not Implemented</H1>
+We are sorry to be unable to perform the method POST to non-script at this time.<P>
+If you would like to see this capability in future
+releases, send the method which failed, why you
+would like to have it, and the server version DrayWeb/0.0.2
+to <ADDRESS>http://www.draytek.com/</ADDRESS><P>
+</body>
+</html>
+HTTP/1.0 302 Found
+
+Pragma: no-cache
+
+Location: /v2000/
+
+Content-type: text/html
+
+
+
+<html>
+  <head>
+  <title>302 Document moved</title>
+  </head>
+<body>
+
+This document has moved <A HREF=""/v2000/"">here</A>.<P>
+</body>
+</html>
+HTTP/1.0 404 Not Found !!!
+
+Pragma: no-cache
+
+Content-type: text/html
+
+WWW-Authenticate: /
+
+
+
+<html>
+  <head>
+  <title>404 Not Found !!!</title>
+  </head>
+<body>
+
+<div align=""center""><center>
+<table border=""1"" cellspacing=""0"" width=""100%"">
+  <tr>
+    <td width=""100%"" bgcolor=""#0000A0"">
+    <p align=""center""><font color=""#FFFFFF"" face=""Arial"">
+    <strong>404 Not Found !!!</strong></font></td>
+  </tr>
+  <tr>
+    <td width=""100%"" bgcolor=""#F3F3F3"" bordercolor=""#000080"" bordercolordark=""#000080"">
+    <p align=""center""><font face=""Times New Romain"" color=""#000000"">
+    <strong>The requested URL was not found on this server.</strong></font></td>
+  </tr>
+</table>
+</body>
+</html>
+
+",78.33.201.170
+router,HTTP/1.1 200 OK  Content-Type: text/html; charset=utf-8  Content-Length: 30604  Connection: close    ,78.33.201.52
+router,"     +<M                    Vigor                                                           DrayTek                                                         HTTP/1.1 400 Bad Request  Server: nginx/1.12.1  Date: Mon, 08 Apr 2019 20:52:04 GMT  Content-Type: text/html  Content-Length: 271  Connection: close    <html>  <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>  <body bgcolor=""white"">  <center><h1>400 Bad Request</h1></center>  <center>The plain HTTP request was sent to HTTPS port</center>  <hr><center>nginx/1.12.1</center>  </body>  </html>  ",78.33.201.94
+router,"                User Access Verification    Password: HTTP/1.1 200 OK  Date: Mon, 08 Apr 2019 12:48:52 GMT  Server: DNVRS-Webs  ETag: ""0-7e2-1e0""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Wed, 18 Jan 2017 10:56:45 GMT    ",81.192.170.58
+router,"   T       } W |Q    &   Ydiffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96    none    none                             5               W y>$7 {   c_c    1} !           T  B    a q'/   b   _i5l  >  s `W{     2    I5   %@<;  4U!$ 7                 #  D )j PE  3 8#;V! ~   2   y  1 pqz T     $\d  s5    S   B ZA     +  2$ >e  Q 2  ykF  H \ \           O  zIVB M    ! F               b 5            Z ]             W y>$7 {   c_c    1} !           T  B    a q'/   b   _i5l  >  s `W{     2    I5   %@<;  4U!$ 7                 #  D )j PE  3 8#;V! ~   2   y  1 pqz T     $\d  s5    S   B ZA     +  2$ >e  Q 2  ykF  H \ \           O  zIVB M    ! F                  .              ssh-rsa                  #  D )j PE  3 8#;V! ~   2   y  1 pqz T     $\d  s5    S   B ZA     +  2$ >e  Q 2  ykF  H \ \           O  zIVB M    ! F       V  c  `        G d 9"" /H MdjK           KTBS   ? 6 L{h+E   @      y'Zb_    e]   <>        D  K & _>  |   )}     7     f  W  q |         ssh-rsa    I    1      [ D  {  N    m    t Z #1    B   h5 _;  Xr  !        KxXK 01     4         M  X      ;   # Xvz   |o 0 #6n2 Y   O<n  f                           T   J   r `  rS  g    Ydiffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96    none    none                  SSH-1.99-Cisco-1.25
+   T   x]      |   !     Ydiffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   )aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96   +hmac-sha1,hmac-sha1-96,hmac-md5,hmac-md5-96    none    none                                              User Access Verification    Username: HTTP/1.1 401 Unauthorized  Date: Sun, 15 Apr 1900 03:04:50 GMT  Server: cisco-IOS  Connection: close  Accept-Ranges: none  WWW-Authenticate: Basic realm=""level_15 or view_access""    401 Unauthorized                                 User Access Verification    Username: ",81.192.170.70
+router,"              HTTP/1.1 200 OK  Connection: close  Content-Length: 7063  Content-Type: text/html  Date: Mon, 08 Apr 2019 11:59:11 GMT  Expires: 0    <!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">  <html xmlns=""http://www.w3.org/1999/xhtml"">  <head>  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />  <link rel=""icon"" href=""/favicon.png""/>  <title>RouterOS router configuration page</title>  <style type=""text/css"">  body {  font-family: Verdana, Geneva, sans-serif;  font-size: 11px;  }  img {border: none}  img:hover {opacity: 0.8;}  h1 {  font-size: 1.7em;  display: inline;  margin-bottom: 10px;  }  fieldset {  margin-top: 20px;  background: #fff;  padding: 20px;  border: 1px solid #c1c1c1;   }  #container {  width: 70%;  margin: 10% auto;  }  #box {  background-color: #fff;   -moz-border-radius: 7px;   -webkit-border-radius: 7px;   border: 1px solid #c1c1c1;   padding: 30px;  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f3f3f3'); /* for IE */  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f3f3f3)); /* for webkit browsers */  background: -moz-linear-gradient(top,  #fff,  #f3f3f3); /* for firefox 3.6+ */  }  .floater {float: left; margin-right: 10px;}  .floater label {display: block; text-align: center;}    #login {      margin: 2em 0 4em 0;  }  #login h2 {      font-w",81.192.170.8
+router,"HTTP/1.0 200 OK  Connection: close  Content-Length: 7063  Content-Type: text/html  Date: Mon, 08 Apr 2019 11:55:12 GMT  Expires: 0    <!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">  <html xmlns=""http://www.w3.org/1999/xhtml"">  <head>  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />  <link rel=""icon"" href=""/favicon.png""/>  <title>RouterOS router configuration page</title>  <style type=""text/css"">  body {  font-family: Verdana, Geneva, sans-serif;  font-size: 11px;  }  img {border: none}  img:hover {opacity: 0.8;}  h1 {  font-size: 1.7em;  display: inline;  margin-bottom: 10px;  }  fieldset {  margin-top: 20px;  background: #fff;  padding: 20px;  border: 1px solid #c1c1c1;   }  #container {  width: 70%;  margin: 10% auto;  }  #box {  background-color: #fff;   -moz-border-radius: 7px;   -webkit-border-radius: 7px;   border: 1px solid #c1c1c1;   padding: 30px;  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f3f3f3'); /* for IE */  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f3f3f3)); /* for webkit browsers */  background: -moz-linear-gradient(top,  #fff,  #f3f3f3); /* for firefox 3.6+ */  }  .floater {float: left; margin-right: 10px;}  .floater label {display: block; text-align: center;}    #login {      margin: 2em 0 4em 0;  }  #login h2 {      font-w",81.192.170.9
+router,"HTTP/1.1 200 OK  Content-type: text/html  Content-Length: 340  Connection: close  AuthInfo:        <!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">    <html xmlns=""http://www.w3.org/1999/xhtml"">  <head>      <title></title>      <script type=""text/javascript"">          window.location.href = ""Pages/login.htm"";      </script>  </head>  <body>  </body>  </html>  RTSP/1.0 200 OK  Server: TVT RTSP Server/1.0.0  CSeq: 1  Public: OPTIONS, DESCRIBE, SETUP, TEARDOWN, PLAY, GET_PARAMETER, SET_PARAMETER    ",86.1.37.39
+router,"HTTP/1.1 400 Page not found  Server: GoAhead-Webs  Date: Mon Apr 08 13:20:07 2019  Connection: close  Pragma: no-cache  Cache-Control: no-cache  Content-Type: text/html    <html><head><title>Document Error: Page not found</title></head>                  <body><h2>Access Error: Page not found</h2>                  <p>Bad request type</p></body></html>    HTTP/1.1 302 Redirect  Server: GoAhead-Webs  Date: Mon Apr 08 13:19:58 2019  Connection: close  Pragma: no-cache  Cache-Control: no-cache  Content-Type: text/html  Location: http://ip-93.157.70.157.e-plan.pl:81/config/log_off_page.htm    <html><head></head><body>                          This document has moved to a new <a href=""http://ip-93.157.70.157.e-plan.pl:81/config/log_off_page.htm"">location</a>.                          Please update your documents to reflect the new location.                          </body></html>    HTTP/1.1 200 Data follows  Server: GoAhead-Webs  Date: Mon Apr 08 13:20:03 2019  Connection: close  Pragma: no-cache  Cache-Control: no-cache  Content-Type: text/html    <html><head><title>Document Error: Data follows</title></head>                  <body><h2>Access Error: Data follows</h2>                  <p>Form is not defined</p></body></html>    HTTP/1.1 400 Page not found  Server: GoAhead-Webs  Date: Mon Apr 08 13:20:08 2019  Connection: close  Pragma: no-cache  Cache-Control: no-cache  Content-Type: text/html    <html><head><title>Document Error: Page not found</title></head>                  <body><h2>Access Error: Page not found</h2>                  <p>Bad request type</p></body></html>    ",93.157.70.157
+router,"HTTP/1.0 501 Not Implemented  Connection: close  Content-Type: text/html  Content-Length: 67    <html><body><p>POST requests are unsupported here</p></body></html>HTTP/1.1 401 Unauthorized
+WWW-Authenticate: Digest realm=""Network Camera"", nonce=""05a52d1144130ae6947d5aafee5dd453"", qop=""auth""
+
+Content-Type: text/html
+
+Content-Length: 351
+
+Connection: close
+
+Date: Mon, 08 Apr 2019 11:29:44 GMT
+
+Server: lighttpd/1.4.28-devel-996M
+
+
+
+<?xml version=""1.0"" encoding=""iso-8859-1""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN""
+         ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+",93.157.70.179
+router,"HTTP/1.1 401 Unauthorized
+WWW-Authenticate: Digest realm=""Network Camera"", nonce=""f923e8b32efc960404269f67500dc539"", qop=""auth""
+
+Content-Type: text/html
+
+Content-Length: 351
+
+Connection: close
+
+Date: Mon, 08 Apr 2019 11:30:01 GMT
+
+Server: lighttpd/1.4.28-devel-2230
+
+
+
+<?xml version=""1.0"" encoding=""iso-8859-1""?>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN""
+         ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"" lang=""en"">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+     +<M                    local                                                           linux                                                           ",93.157.70.194
+router,"HTTP/1.0 200 OK  Server: SonicWALL  Expires: -1  Cache-Control: no-cache  Content-type: text/html; charset=UTF-8;  X-Content-Type-Options: nosniff  X-XSS-Protection: 1; mode=block  X-Frame-Options: SAMEORIGIN  Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: ws: wss:;    <!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0 Transitional//EN"">  <html>  <head><meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">    <meta http-equiv=""Content-Type"" content=""text/html"">  <title>Document Moved</title>  <meta name=""id"" content=""docJump"" >  <link rel=stylesheet href=""swl_styles-6.2.5-262632126.css"" TYPE=""text/css"">  <link rel=stylesheet href=""swl_login-6.2.5-1758220586.css"" TYPE=""text/css"">  <script type=""text/JavaScript"">  var resetSecureFlag = false;  setTimeout(""goJump();"", 1000);  function goJump() {   var jumpURL = ""https://ip-93.157.70.197.e-plan.pl/auth.html"";   var jumpProt = jumpURL.substr(0,6).toLowerCase();   var ix;   if (jumpProt.substr(0,4) == ""http"" && (ix = jumpProt.indexOf("":"")) != -1) {    jumpProt = jumpProt.substr(0,ix+1);    if (location.protocol.toLowerCase() != jumpProt) {     window.opener = null;     top.opener = null;    }   }   if (resetSecureFlag) {    var sessId = getCookie(""SessId"");    var pageSeed = getCookie(""PageSeed"");    if (sessId) { setCookie(""SessId"", sessId); }    if (pageSeed) { setCookie(""PageSeed"", pageSeed); }   }   top.location.href = jumpURL;  }  function setCookie(key, value) {    var argv = setCo        F  \ .c 0  -WTj     Fn z0M P   [;^  5    $ HY: $ >  C   b     c    b 9           0   0          n  j +Q Dt*    e0   * H        0 1 0   U    WIN-7NTIKLNBPSB0   190406135121Z  191006135121Z0 1 0   U    WIN-7NTIKLNBPSB0  ""0   * H             0         ?U  4 W + O   g       qL _ zu C  w h   O iX.    O       * {o  s   =a   ' M    b     <=:  R  Z             ak   &   u  u  o    qw    ZX      &S e         ty ~ S   l    G  m 3 % ol  F*  I-     95L  r   <   ZD v   7  64$  ' x  o '2d    ))  - { ?  S  y5   b        $0""0   U %  0   +       0   U       00   * H             0$Y m      ' [    ~ u    O  6    q h`  8     s        n $ RI   U M J       1[  q )    ?   r \ 3        ,      4   iy/z   hW    v m  F ~AE  [;Lu jwHs    J%        :~     :,?x{  C  2 /   ?  o    5  ` n u    C ) `  )  B 0  _S0G  7 '  .   Q(  K-        %yn<  D                  !h 4  b     ) N  g t    ;  ""QJ y 4       :C 0+ m _ 7O 5mmQ E   vb^~  LB  7 k  \      8k Z     $ |K  I(fQ  S                                                                                                                                                   o @ (4  <{ \F      M=& q   b (H / ' }B  l  m    I + h       v bM    B    t ""k&          4     c *      5   %6 VZ ,m    l          XW""   1P (       Zv 3 fi i       @        p  ' ^  |wg   ;  8    c   *%        MX >( 0R   l  86yu     e S  \ n    L:t  _T K   O      7 [         T ?Ek      I n Y/        D 3  w:  ""  0  [g      E    n Q #(\ A 2        [:l  % t  d  >Q  F ;n  y /   : nA 1             F  \ .`  fd h  y N \`8.      /      AF  o4  c  $ =:p     $     F  C  9           0   0          n  j +Q Dt*    e0   * H        0 1 0   U    WIN-7NTIKLNBPSB0   190406135121Z  191006135121Z0 1 0   U    WIN-7NTIKLNBPSB0  ""0   * H             0         ?U  4 W + O   g       qL _ zu C  w h   O iX.    O       * {o  s   =a   ' M    b     <=:  R  Z             ak   &   u  u  o    qw    ZX      &S e         ty ~ S   l    G  m 3 % ol  F*  I-     95L  r   <   ZD v   7  64$  ' x  o '2d    ))  - { ?  S  y5   b        $0""0   U %  0   +       0   U       00   * H             0$Y m      ' [    ~ u    O  6    q h`  8     s        n $ RI   U M J       1[  q )    ?   r \ 3        ,      4   iy/z   hW    v m  F ~AE  [;Lu jwHs    J%        :~     :,?x{  C  2 /   ?  o    5  ` n u    C ) `  )  B 0  _S0G  7 '  .   Q(  K-        %yn<  D                  !h 4  b     ) N  g t    ;  ""QJ y 4       :C 0+ m _ 7O 5mmQ E   vb^~  LB  7 k  \      8k Z     $ |K  I(fQ  S                                                                                                                                                   o @ (4  <{ \F      M=& q   b (H / ' }B  l  m    I + h       v bM    B    t ""k&          4     c *      5   %6 VZ ,m    l      T    d      n] z   (  L    .h   j*^  BS L ""M 9     ab  R  W ~r a  g z  f  8 m &   ( p ~7 l   p    O   j  ! s.   1'  e 83   C9          Es    J x + KW&  z  NW a m >k k )  Z     ([  U YtL  L8          b 1    | C      bs# %< 9M       {  L =+J0    q  O  2   -         J   F  [   k ^I  x    # l  ){-p:5 8I$ P  CE  $  2  _( '   6gqe      >/   /     8   4  1  .0  *0           g$ 0   * H        0  1 0   U    US1 0   U    California1 0   U    Sunnyvale1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1 0   U    192.168.168.1680   700101000001Z  380119031407Z0  1 0   U    US1 0   U    California1 0   U    Sunnyvale1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1 0   U    192.168.168.1680  ""0   * H             0          #   2dw'Q   a    + ] HKG     W   `  6      z Jc   c[ l+|    % "" `zX  q J   YLz {  ,5 Xn O   U      8     0 V   /  _        (x }D   { V   _b #X e  E   3~ M)8J  s J        ` :4L  2y>   QY  E0 gu2    @]y     J    B    @b K      i`    %   K   z~   oM  !(  PS     0   * H             S a @   f q   } x  hBq V Q     N  V   :  E     s=n G mo } o=  4       9 + _ ,ES  u       -  4 d4m  IU0 T:     ib  *C\O    X      j v    0 X    sD}R           |   +   K     ~  j6      l  w D  }  B  m    J )  f' W   t S   iqK        q{ 5 l  ;,{j  W     8+O               J   F   e|K  g E  ss v    ; T G    u e  ,        d  %AF     q  Y   vU!b  /     8   4  1  .0  *0           g$ 0   * H        0  1 0   U    US1 0   U    California1 0   U    Sunnyvale1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1 0   U    192.168.168.1680   700101000001Z  380119031407Z0  1 0   U    US1 0   U    California1 0   U    Sunnyvale1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1 0   U    192.168.168.1680  ""0   * H             0          #   2dw'Q   a    + ] HKG     W   `  6      z Jc   c[ l+|    % "" `zX  q J   YLz {  ,5 Xn O   U      8     0 V   /  _        (x }D   { V   _b #X e  E   3~ M)8J  s J        ` :4L  2y>   QY  E0 gu2    @]y     J    B    @b K      i`    %   K   z~   oM  !(  PS     0   * H             S a @   f q   } x  hBq V Q     N  V   :  E     s=n G mo } o=  4       9 + _ ,ES  u       -  4 d4m  IU0 T:     ib  *C\O    X      j v    0 X    sD}R           |   +   K     ~  j6      l  w D  }  B  m    J )  f' W   t S   iqK        q{ 5 l  ;,{j  W     8+O               J   F    c K""  ~  9X ?Jy  "";       <^ e L 9   &    { 3`  Z     P    )S4S /     8   4  1  .0  *0           g$ 0   * H        0  1 0   U    US1 0   U    California1 0   U    Sunnyvale1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1 0   U    192.168.168.1680   700101000001Z  380119031407Z0  1 0   U    US1 0   U    California1 0   U    Sunnyvale1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1A0?  U   8HTTPS Management Certificate for SonicWALL (self-signed)1 0   U    192.168.168.1680  ""0   * H             0          #   2dw'Q   a    + ] HKG     W   `  6      z Jc   c[ l+|    % "" `zX  q J   YLz {  ,5 Xn O   U      8     0 V   /  _        (x }D   { V   _b #X e  E   3~ M)8J  s J        ` :4L  2y>   QY  E0 gu2    @]y     J    B    @b K      i`    %   K   z~   oM  !(  PS     0   * H             S a @   f q   } x  hBq V Q     N  V   :  E     s=n G mo } o=  4       9 + _ ,ES  u       -  4 d4m  IU0 T:     ib  *C\O    X      j v    0 X    sD}R           |   +   K     ~  j6      l  w D  }  B  m    J )  f' W   t S   iqK        q{ 5 l  ;,{j  W     8+O           ",93.157.70.197
+router,"HTTP/1.1 200 OK  Server: nginx  Date: Mon, 08 Apr 2019 11:24:11 GMT  Content-Type: text/html  Content-Length: 612  Last-Modified: Thu, 28 Feb 2019 15:21:22 GMT  Connection: close  ETag: ""5c77fc72-264""  X-Frame-Options: SAMEORIGIN  X-Content-Type-Options: nosniff  X-XSS-Protection: 1; mode=block  Accept-Ranges: bytes    <!DOCTYPE html> <html> <head> <title>Welcome to nginx!</title> <style>     body {         width: 35em;         margin: 0 auto;         font-family: Tahoma, Verdana, Arial, sans-serif;     } </style> </head> <body> <h1>Welcome to nginx!</h1> <p>If you see this page, the nginx web server is successfully installed and working. Further configuration is required.</p>  <p>For online documentation and support please refer to <a href=""http://nginx.org/"">nginx.org</a>.<br/> Commercial support is available at <a href=""http://nginx.com/"">nginx.com</a>.</p>  <p><em>Thank you for using nginx.</em></p> </body> </html> HTTP/1.1 400 Bad Request  Server: nginx  Date: Mon, 08 Apr 2019 11:24:13 GMT  Content-Type: text/html  Content-Length: 248  Connection: close    <html>  <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>  <body>  <center><h1>400 Bad Request</h1></center>  <center>The plain HTTP request was sent to HTTPS port</center>  <hr><center>nginx</center>  </body>  </html>  ",93.157.70.219
+router,"    J   F  \ /  K  x 4G  8 rQfU  Rd-     ^     9   R  ci sSn  M    EQ =  = i /                0   0  d       H   0   * H        0 1 0   U    usg300_0019CB9C0F280   080416075123Z  280411075123Z0 1 0   U    usg300_0019CB9C0F280  0   * H            0         K 0/  ;#] nc (z  D#U    (  6      ]  XA"" :     , +    g         W<   P J  *  N %2   @     Y3  D         6  t   ""  A    n xX]7      F0D0   U           0   U    0   usg300_0019CB9C0F280   U       0       0   * H             Tr  t    j4O ~% fD q_ mk      8<       4N  =H<   cp mM  ^ ""         E       B  >  !V e p*Y<  2xd _< S({ &  N}ldhi  m         tW             J   F  \ /   _ O     <  j &  p!e        O  {   v    * 2mje n 8"" i      g /                0   0  d       H   0   * H        0 1 0   U    usg300_0019CB9C0F280   080416075123Z  280411075123Z0 1 0   U    usg300_0019CB9C0F280  0   * H            0         K 0/  ;#] nc (z  D#U    (  6      ]  XA"" :     , +    g         W<   P J  *  N %2   @     Y3  D         6  t   ""  A    n xX]7      F0D0   U           0   U    0   usg300_0019CB9C0F280   U       0       0   * H             Tr  t    j4O ~% fD q_ mk      8<       4N  =H<   cp mM  ^ ""         E       B  >  !V e p*Y<  2xd _< S({ &  N}ldhi  m         tW         <!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN""><html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+Reason: You're speaking plain HTTP to an SSL-enabled server port.<br />
+Instead use the HTTPS scheme to access this URL, please.<br />
+<blockquote>Hint: <a href=""https://www.example.com/""><b>https://www.example.com/</b></a></blockquote></p>
+<hr>
+<address>  Server at www.example.com Port 443</address>
+</body></html>
+
+    J   F  \ / [$ 3 = T .b     P    >k  f ""      J> t, =   D AJ e m |y   R*  /                0   0  d       H   0   * H        0 1 0   U    usg300_0019CB9C0F280   080416075123Z  280411075123Z0 1 0   U    usg300_0019CB9C0F280  0   * H            0         K 0/  ;#] nc (z  D#U    (  6      ]  XA"" :     , +    g         W<   P J  *  N %2   @     Y3  D         6  t   ""  A    n xX]7      F0D0   U           0   U    0   usg300_0019CB9C0F280   U       0       0   * H             Tr  t    j4O ~% fD q_ mk      8<       4N  =H<   cp mM  ^ ""         E       B  >  !V e p*Y<  2xd _< S({ &  N}ldhi  m         tW         HTTP/1.1 413 Request Entity Too Large
+Date: Mon, 08 Apr 2019 11:25:08 GMT
+
+Server:  
+
+Connection: close
+
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>413 Request Entity Too Large</title>
+</head><body>
+<h1>Request Entity Too Large</h1>
+The requested resource<br />/sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/<br />
+does not allow request data with SSTP_DUPLEX_POST requests, or the amount of data provided in
+the request exceeds the capacity limit.
+<p>Additionally, a 413 Request Entity Too Large
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+<hr>
+<address>  Server at 93.157.70.222 Port 443</address>
+</body></html>
+
+HTTP/1.1 200 OK
+Server: nginx/1.12.2
+
+Date: Mon, 08 Apr 2019 11:25:08 GMT
+
+Content-Type: text/plain
+
+Content-Length: 2189
+
+Last-Modified: Wed, 01 Feb 2017 21:34:27 GMT
+
+Connection: close
+
+ETag: ""58925463-88d""
+
+X-Xss-Protection: 1; mode=block
+
+Accept-Ranges: bytes
+
+
+
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these ""robots"" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Crawl-delay: 10
+# CSS, JS, Images
+Allow: /misc/*.css$
+Allow: /misc/*.css?
+Allow: /misc/*.js$
+Allow: /misc/*.js?
+Allow: /misc/*.gif
+Allow: /misc/*.jpg
+Allow: /misc/*.jpeg
+Allow: /misc/*.png
+Allow: /modules/*.css$
+Allow: /modules/*.css?
+Allow: /modules/*.js$
+Allow: /modules/*.js?
+Allow: /modules/*.gif
+Allow: /modules/*.jpg
+Allow: /modules/*.jpeg
+Allow: /modules/*.png
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /themes/*.css$
+Allow: /themes/*.css?
+Allow: /themes/*.js$
+Allow: /themes/*.js?
+Allow: /themes/*.gif
+Allow: /themes/*.jpg
+Allow: /themes/*.jpeg
+Allow: /themes/*.png
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+
+",93.157.70.222
+webcam,"HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:35:07 GMT  Server: DNVRS-Webs  ETag: ""0-1630-1e0""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Mon, 06 Feb 2017 05:43:58 GMT       <!doctype html>  <html>  <head>   <title></title>   <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />   <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" >   <meta http-equiv=""Pragma"" content=""no-cache"" />   <meta http-equiv=""Cache-Control"" content=""no-cache, must-revalidate"" />   <meta http-equiv=""Expires"" content=""0"" />  </head>  <body>  </body>  <script>   window.location.href = ""/doc/page/login.asp?_"" + (new Date()).getTime();  </script>  </html>",114.216.171.230
+webcam,HTTP/1.0 200 OK  ,114.30.240.104
+webcam,"HTTP/1.1 200 OK  Date: Mon, 08 Apr 2019 22:54:48 GMT  Server: Boa/0.94.14rc19  Accept-Ranges: bytes  Connection: close  Content-Length: 7554  Last-Modified: Mon, 08 Apr 2019 22:54:48 GMT  Content-Type: text/html    <!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0 Transitional//EN"">    <!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"">  <HTML xml:lang=""en"" xmlns=""http://www.w3.org/1999/xhtml"">  <HEAD>  <TITLE>Web Client</TITLE>      <meta http-equiv='cache-control' content='no-cache'>    <meta http-equiv='expires' content='0'>      <meta http-equiv='pragma' content='no-cache'>     <META content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">    <SCRIPT type=""text/javascript"">  // InternetVersion      function getInternetVersion(ver)       {           var rv = -1; // Return value assumes failure.           var ua = navigator.userAgent;           var re = null;          if (ver == ""MSIE"")          {              re = new RegExp(""MSIE ([0-9]{1,}[\.0-9]{0,})"");          }          else          {              re = new RegExp(ver+""/([0-9]{1,}[\.0-9]{0,})"");          }          if (re.exec(ua) != null)          {               rv = parseFloat(RegExp.$1);          }           return rv;       }             function browserCheck()      {           var ver = 0;           if (navigator.appName.charAt(0) == ""N"") {                var view_page;              var browser_name;              var plugin;   421 Unable to set up secure anonymous FTP
+
+220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 1 of 50 allowed.
+
+220-Local time is now 22:54. Server port: 21.
+
+220 You will be disconnected after 15 minutes of inactivity.
+
+
+220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 4 of 50 allowed.
+
+220-Local time is now 22:54. Server port: 21.
+
+220 You will be disconnected after 15 minutes of inactivity.
+
+
+530 You aren't logged in  220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 3 of 50 allowed.
+
+220-Local time is now 22:54. Server port: 21.
+
+220 You will be disconnected after 15 minutes of inactivity.
+
+
+500 This security scheme is not implemented
+
+",114.30.240.81
+webcam,"HTTP/1.1 200 OK  X-UA-Compatible: IE=EmulateIE7, requiresActiveX=true  X-Powered-By: PHP/5.2.0  Set-Cookie: NVR_MODEL_CODE=102; path=/  Set-Cookie: POE_SWITCH_STATUS=1; path=/  Set-Cookie: NVR_MODEL_NAME=SRN-473S; path=/  Set-Cookie: EPOS_SUPPORT=1; path=/  Set-Cookie: VIDEO_SUMMARY_SUPPORT=0; path=/  Set-Cookie: CHANNEL_COUNT=4; path=/  Set-Cookie: LANGUAGE_SUPPORT=16777215; path=/  Set-Cookie: POWEROFF_ALARMOUT_SUPPORT=1; path=/  Set-Cookie: NUM_ALARM_IN=2; path=/  Set-Cookie: NUM_ALARM_OUT=1; path=/  Set-Cookie: CAMERA_DEFAULT_PW_SUPPORT=0; path=/  Set-Cookie: KEEP_ASPECT_RATIO_SUPPORT=1; path=/  Set-Cookie: TOE_SUPPORT=1; path=/  Set-Cookie: MAX_SEARCH_USER_NUMBER=3; path=/  Set-Cookie: VPM_KINDERGARTEN_SUPPORT=0; path=/  Set-Cookie: NVR_MODEL_CODE=102; path=/  Set-Cookie: NVR_MODEL_NAME=SRN-473S; path=/  Set-Cookie: EPOS_SUPPORT=1; path=/  Set-Cookie: VIDEO_SUMMARY_SUPPORT=0; path=/  Set-Cookie: CHANNEL_COUNT=4; path=/  Set-Cookie: LANGUAGE_SUPPORT=16777215; path=/  Set-Cookie: POWEROFF_ALARMOUT_SUPPORT=1; path=/  Set-Cookie: NUM_ALARM_IN=2; path=/  Set-Cookie: NUM_ALARM_OUT=1; path=/  Set-Cookie: CAMERA_DEFAULT_PW_SUPPORT=0; path=/  Set-Cookie: KEEP_ASPECT_RATIO_SUPPORT=1; path=/  Set-Cookie: TOE_SUPPORT=1; path=/  Set-Cookie: MAX_SEARCH_USER_NUMBER=3; path=/  Set-Cookie: VPM_KINDERGARTEN_SUPPORT=0; path=/  Set-Cookie: POE_SWITCH_STATUS=1; path=/  Set-Cookie: nvr_lang=7; path=/  Set-Cookie: setup1=deleted; expires=Mon, 09-Apr-2018 01:39:11 GMT; path=/  Expires: Mon, 26 Jul 1997 05:00:00 GMT  Last-Modified: Tue, 09 Apr 2019 01:39:12 GMT  Cache-Control: no-store, no-cache, must-revalidate, max-age=0  Cache-Control: post-check=0, pre-check=0  Pragma: no-cache  Content-type: text/html  Connection: close  Transfer-Encoding: chunked  Date: Tue, 09 Apr 2019 01:39:12 GMT  Server: lighttpd/1.4.35    1988  <!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-Transitional.dtd"">  <html>  <head>   <title>SAMSUNG TECHWIN NVR Web Viewer</title>   <meta http-equiv=""Content-type"" content=""text/html; charset=utf-8"" />  <meta http-equiv=""X-UA-Compatible"" content=""IE=edge,requiresActiveX=true"" />   <meta http-equiv=""Expires"" content=""-1"" />    <meta http-equiv=""Pragma"" content=""no-cache""/>   <meta http-equiv=""Cache-Control"" content=""No-Cache""/>    <script language=""javascript"" src='http://121.135.128.136:8080/index.php/commonJS'></script>   <script language=""javascript"" src='http://121.135.128.136:8080/index.php/commonJS/lang_js'></script>   <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/jquery-1.7.2.min.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/jquery.sha256.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/jsbn.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/jsbn2.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/prng4.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/rng.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/rsa.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/rsa2.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/base64.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/jquery.ua.custom.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/jquery-ui-1.8.18.custom.min.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/jquery.ui.dialog.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/jquery.input.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/jQueryRotate.2.2.js"" ></script> <script language=""javascript""  src=""http://121.135.128.136:8080/resource/js/common/util.js"" ></script>    <link href=""http://121.135.128.136:8080/resource/css/common/ui-lightness/jquery-ui-1.8.18.custom.css"" rel=""stylesheet"" type=""text/css"" /> <link href=""http://121.135.128.136:8080/resource/css/common/ui.dialog.css"" rel=""stylesheet"" type=""text/css"" /> <link href=""http://121.135.128.136:8080/resource/css/common/common.css"" rel=""stylesheet"" type=""text/css"" />    <script type=""text/javascript"">    document.onkeydown = function(event){    if (event != null && event.keyCode == 123) {       return false;     }    }    </script>  </head>    <body oncontextmenu='return false' ondragstart='return false' onselectstart='return false' onunload=''><!--  -->    <div id=""wrap"">  <script type=""text/javascript"">$.nvr = {}; $.nvr.plugin_version = ""1.0.1.111"";$.nvr.plugin_version_check = ""1.0.1.111"";$.nvr.model_code=""102"";$.nvr.model_name=""SRN-473S"";</script>  <div class='login_wrapper'>   <div class='model_name_wrapper'></div>   <div class='input_wrapper'>    <div class='input_wrapper_no_button'>     <div class='input_field_wrapper'>      <div class='label'><label for='login_id'>ID</label></div>      <input type='text' id='login_id'>      <div class='login_blank'></div>      <div class='label'><label for='login_pw'>            </label></div>      <input type='password' id='login_pw'>      <div class='input_checkbox_wrapper'>       <input type='checkbox' id='save_id'><label class='checkbox_label' for='save_id'>                </label>       <!--  <input type='checkbox' id='auto_login'><label class='checkbox_label' for='auto_login'>                </label> -->      </div>      <div class='hide'>       <input type='checkbox' id='auto_login'><label class='checkbox_label' for='auto_login'>                </label>      </div>     </div>    </div>    <div class='input_wrapper_button'>     <span id='do_login' class='login_btn'>         </span>    </div>   </div>  </div>    <!-- Auto Login -->  <div id='auto_login_alert' title='         ' class='dialog'>                       PC                                                       !</div>    <!-- LOGIN -->  <div id='login_id_wrong_char' title='         ' class='dialog'>                     ,                                .</div>  <div id='input_login_id' title='         ' class='dialog'>                                     .</div>  <div id='login_fail_wrong_id' title='         ' class='dialog'>                                                                  .<br/><br/>                                .</div>  <div id='login_fail_wrong_pwd' title='                             ' class='dialog'>                        </div>  <div id='login_wrong_pwd' title='         ' class='dialog'>                                           .</div>  <div id='dialog_login_to_force' title='                ' class='dialog'>                                               .<br/><br/>                               ?</div>  <div id='login_fail_wrong_pwd_lock' title='                ' class='dialog'>                  5                                       .<br/><br/>30                                    . <div class='login_lock_second'><span></span>&nbsp;   </div>  </div>  <div id='login_fail_by_remote' title='         ' class='dialog'>                                             .<br/><br/>                                .</div>  <div id='login_fail_no_viewer' title='         ' class='dialog'>   <p>                             .</p>  </div>        <!-- Password -->  <div id='change_pwd_alert' title='         ' class='dialog'>                                                                      .</div>  <div id='change_pwd_form' title='                   ' class='dialog'>  <div style='height:5px;'></div>  <div class='popup_menu'>             :</div> <div class='popup_content' id='div_chn_pw_current'><input type='password' id='chn_user_pwd' name='chn_user_pwd' class='popup_input'></div>  <div class='popup_menu'>                    :</div>   <div class='popup_content'>   <div style='margin-right:5px; float:left' id='div_chn_pw_new'><input type='password' id='chn_user_new_pwd' name='chn_user_new_pwd' class='popup_input'></div>   <span id='pw_guide_button' class='icon_button'>   <span class='icon_info_normal'></span>   </span>   </div>  <d  ",121.135.128.136
+webcam,"RTSP/1.0 200 OK  CSeq: 1  Connection: Keep-Alive  Public: OPTIONS, DESCRIBE, SETUP, PLAY, PAUSE, GET_PARAMETER, TEARDOWN    HTTP/1.1 200 OK  ",128.122.53.117
+webcam,HTTP/1.1 200 OK  ,128.122.53.138
+webcam,"HTTP/1.0 200 OK  Date: Mon Apr  8 05:56:05 2019      2   F  \  u N  N C< *         Ox            H|Q           z   k{go       /           0   0          h   v   I  `_   0   * H        0 1 0   U    servidor30   190308040023Z  190907040023Z0 1 0   U    servidor30  ""0   * H             0          | ;       U% FM  n  }[ w  2,I          w2 $WRe       d E  + h L4         0 M  W TH ?x Y    ~        z     l=h Ac z    &          @ B   4    T       Y Dv           pMY FC@ H =a x       < iU   ln      &2{                 ')   t G    da_T    m       w:   TS      $0""0   U %  0   +       0   U       00   * H                 -     #   ?  NX     !   O 4  ?    4JK |!     UC  T X+u I @ '       A :  Q   :   f               / s  8 x N 0S  =!     h   Z 6R   JZVU  # !3? hw Y  B     FBJ  E<     t(@     A '   Z        !        4 O4    6""$ e  %  _* r     8  S    -      V  r g   d `         2   F  \  x ? // kMq        [  6J        4   k  |}_ke  qk:  r WxW   M    /           0   0          h   v   I  `_   0   * H        0 1 0   U    servidor30   190308040023Z  190907040023Z0 1 0   U    servidor30  ""0   * H             0          | ;       U% FM  n  }[ w  2,I          w2 $WRe       d E  + h L4         0 M  W TH ?x Y    ~        z     l=h Ac z    &          @ B   4    T       Y Dv           pMY FC@ H =a x       < iU   ln      &2{                 ')   t G    da_T    m       w:   TS      $0""0   U %  0   +       0   U       00   * H                 -     #   ?  NX     !   O 4  ?    4JK |!     UC  T X+u I @ '       A :  Q   :   f               / s  8 x N 0S  =!     h   Z 6R   JZVU  # !3? hw Y  B     FBJ  E<     t(@     A '   Z        !        4 O4    6""$ e  %  _* r     8  S    -      V  r g   d `         2   F  \  x 0 n| L   y_  M  l xB%   6    (   >2  s2Z)"" HTh URL2  jQ ]    /           0   0          h   v   I  `_   0   * H        0 1 0   U    servidor30   190308040023Z  190907040023Z0 1 0   U    servidor30  ""0   * H             0          | ;       U% FM  n  }[ w  2,I          w2 $WRe       d E  + h L4         0 M  W TH ?x Y    ~        z     l=h Ac z    &          @ B   4    T       Y Dv           pMY FC@ H =a x       < iU   ln      &2{                 ')   t G    da_T    m       w:   TS      $0""0   U %  0   +       0   U       00   * H                 -     #   ?  NX     !   O 4  ?    4JK |!     UC  T X+u I @ '       A :  Q   :   f               / s  8 x N 0S  =!     h   Z 6R   JZVU  # !3? hw Y  B     FBJ  E<     t(@     A '   Z        !        4 O4    6""$ e  %  _* r     8  S    -      V  r g   d `     RTSP/1.0 401 Unauthorized  CSeq: 1  WWW-Authenticate: Digest realm=""Hikvision"", nonce=""7d34cab9b3b09911998498c4b57a55e4"", stale=""FALSE""  WWW-Authenticate: Basic realm=""/""    ",138.0.101.32
+webcam,"RTSP/1.0 401 Unauthorized  CSeq: 1  WWW-Authenticate: Digest realm=""Hikvision"", nonce=""09f50f21fc7c4d748fc36525d4efbb97"", stale=""FALSE""  WWW-Authenticate: Basic realm=""/""    SSH-2.0-dropbear_2014.63          t    H   \x Fx    curve25519-sha256@libssh.org,ecdh-sha2-nistp521,ecdh-sha2-nistp384,ecdh-sha2-nistp256,diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,kexguess2@matt.ucc.asn.au    ssh-rsa,ssh-dss   gaes128-ctr,3des-ctr,aes256-ctr,aes128-cbc,3des-cbc,aes256-cbc,twofish256-cbc,twofish-cbc,twofish128-cbc   gaes128-ctr,3des-ctr,aes256-ctr,aes128-cbc,3des-cbc,aes256-cbc,twofish256-cbc,twofish-cbc,twofish128-cbc    hmac-sha1-96,hmac-sha1,hmac-md5    hmac-sha1-96,hmac-sha1,hmac-md5    none    none               P SSH-2.0-dropbear_2014.63          T 1 c jW  Xy?D    curve25519-sha256@libssh.org,ecdh-sha2-nistp521,ecdh-sha2-nistp384,ecdh-sha2-nistp256,diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,kexguess2@matt.ucc.asn.au    ssh-rsa,ssh-dss   gaes128-ctr,3des-ctr,aes256-ctr,aes128-cbc,3des-cbc,aes256-cbc,twofish256-cbc,twofish-cbc,twofish128-cbc   gaes128-ctr,3des-ctr,aes256-ctr,aes128-cbc,3des-cbc,aes256-cbc,twofish256-cbc,twofish-cbc,twofish128-cbc    hmac-sha1-96,hmac-sha1,hmac-md5    hmac-sha1-96,hmac-sha1,hmac-md5    none    none                 SSH-2.0-dropbear_2014.63         M  B P   ED j      curve25519-sha256@libssh.org,ecdh-sha2-nistp521,ecdh-sha2-nistp384,ecdh-sha2-nistp256,diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,kexguess2@matt.ucc.asn.au    ssh-rsa,ssh-dss   gaes128-ctr,3des-ctr,aes256-ctr,aes128-cbc,3des-cbc,aes256-cbc,twofish256-cbc,twofish-cbc,twofish128-cbc   gaes128-ctr,3des-ctr,aes256-ctr,aes128-cbc,3des-cbc,aes256-cbc,twofish256-cbc,twofish-cbc,twofish128-cbc    hmac-sha1-96,hmac-sha1,hmac-md5    hmac-sha1-96,hmac-sha1,hmac-md5    none    none             r   ",138.0.101.41
+webcam,"HTTP/1.1 403 Forbidden  Server: nginx  Date: Mon, 08 Apr 2019 12:19:59 GMT  Content-Type: text/html; charset=utf-8  Content-Length: 162  Connection: close    <html>  <head><title>403 Forbidden</title></head>  <body bgcolor=""white"">  <center><h1>403 Forbidden</h1></center>  <hr><center>nginx</center>  </body>  </html>  HTTP/1.1 200 OK  Server: nginx  Date: Mon, 08 Apr 2019 12:19:59 GMT  Content-Type: text/html; charset=utf-8  Content-Length: 331247  Connection: close  Vary: Accept-Encoding  x-req-id: HkNvu23uKN  Set-Cookie: qcmainCSRFToken=HyHwuhnOFN; Domain=.cloud.tencent.com; Path=/  Set-Cookie: intl=; Domain=.cloud.tencent.com; Path=/; Secure  Set-Cookie: language=zh; Max-Age=15552000; Domain=.cloud.tencent.com; Path=/; Expires=Sat, 05 Oct 2019 12:19:59 GMT  ETag: W/""50def-nVub1cQryv5yv4uhPkCRKw""    <!DOCTYPE html> <html> <head>  <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">  <meta name=""viewport"" content=""width=device-width, initial-scale=1.0, maximum-scale=2"">  <script>var timeStamps = [new Date()];</script>  <meta charset=""utf-8"">  <title>          -                          </title>  <meta name=""keywords"" content=""         ,            ,         ,CDN,            ,                  ,         ,            ,         +            ,QQ   "">  <meta name=""description"" content=""                                                                                                                                          CDN                                                               "">  <meta name=""format-detection"" content=""telephone=no"">  <meta name=""baidu-site-verification"" content=""Yqh6LFzxHs"" />  <meta name=""google-site-verification"" content=""P8iDSYbE4VrjAChnoh_9k3LwsPJt9m614Nn5_fMhsuo"" />  <meta name=""shenma-site-verification"" content=""d33db0ae4613f827196c6e785aaeee4d_1509506173"" />  <meta name=""360-site-verification"" content=""79a4c7ed94a9bec6d181e125c65cc6aa"" />  <meta name=""sogou_site_verification"" content=""j0R8AKzqAJ"" />  <meta name=""msvalidate.01"" content=""2B16B16EB1150C38636B5158791E1452"" />  <link rel=""dns-prefetch"" href=""//imgcache.qq.com"">  <link rel=""dns-prefetch"" href=""//qzs.qq.com"">  <link rel=""icon"" href=""/favicon.ico?t=201902181234"" type=""image/x-icon""/>  <script>document.domain = 'cloud.tencent.com';</script>  <script>timeStamps[1] = new Date();</script>    <link rel=""stylesheet"" href=""//imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/portal/css/global-201903131523.css?max_age=31536000""> <link rel=""stylesheet"" href=""//imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/portal/css/global-components.css?max_age=31536000&amp;t=20180817"">       <meta name=""applicable-device"" content=""pc,mobile"">  <link href=""//imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/portal/css/home-201904041139.css?max_age=31536000"" rel=""stylesheet"" media=""screen""/> </head> <body> <input type=""hidden"" id=""shareThumbnail"" value=""http://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/shareicons/cloud.png""> <div class=""body"">       <!--[if lt IE 9]> <script src=""//imgcache.qq.com/qcloud/main/scripts/release/common/libs/updateTips.js?max_age=31536000&v=201902181234""></script> <![endif]-->    <script> window.ISABSOLUTEHEADER = false;     window.ISMOBILE = false; </script> <div id=""navigationBar"" data-type=""cn_zh"" class=""c-nav-wrap c-nav c-nav-wrap-dark"" > <div class=""c-nav-mod c-nav-mod-pc c-nav-dark""> <div id=""qcTopNavFstLevel"" class=""c-nav-top"" data-nohome=""1""> <a id=""qcLeftNavSwitcher"" href=""javascript:;"" class=""c-nav-all-trigger"" hotrep=""hp.header.trigger"" aria-haspopup=""true"" aria-expanded=""false"" role=""button"" aria-controls=""qcLeftNavSwitcher""> <i class=""c-nav-all-trigger-icon""></i> <span class=""c-nav-all-trigger-text"">      </span> </a> <i class=""c-nav-top-divider""></i> <a class=""c-nav-bg-logo"" href=""//cloud.tencent.com"" hotrep=""hp.header.hp""> <i>         </i> </a> <div class=""c-nav-top-operation""> <div class=""c-nav-top-ctrl""> <div class=""c-nav-top-links""> <a href=""https://cloud.tencent.com/product/ba"" hotrep=""hp.header.ba"" class=""link-item"">      </a> <a href=""https://console.cloud.tencent.com"" hotrep=""hp.header.console"" class=""link-item"">         </a> </div> </div> </div> </div> <div id=""qcTopNavSndLevel"" class=""c-nav-bottom""> <div id=""qcTopNavMain"" class=""c-nav-bm-categories""> <ul class=""c-nav-list J-qcTopNavList""> <li class=""presentation J-qcTopNavItem"" data-id=""act"" data-action=""link"" data-title=""            "" style=""display: inline-block""><a role=""button"" href=""https://cloud.tencent.com/act/home"" hotrep=""hp.header.act"">            <i class=""c-nav-hot-icon""></i></a> </li> <li class=""presentation J-qcTopNavItem"" data-id=""product"" data-action=""expand"" data-title=""      ""> <a role=""button"" href=""javascript:;"" hotrep=""hp.header.product"" aria-haspopup=""true"" aria-expanded=""false"" aria-controls=""qcTopNavSheetWrapper"">        </a> </li> <li class=""presentation J-qcTopNavItem"" data-id=""solution"" data-action=""expand"" data-title=""            ""> <a role=""button"" href=""https://cloud.tencent.com/solution/overview"" hotrep=""hp.header.solution"">              </a> </li> <li class=""presentation J-qcTopNavItem"" data-id=""price"" data-action=""link"" data-title=""      ""> <a role=""button"" href=""https://buy.cloud.tencent.com/price"" hotrep=""hp.header.price"">        </a> </li> <li class=""presentation J-qcTopNavItem"" data-id=""document"" data-action=""link"" data-title=""      ""> <a role=""button"" href=""https://cloud.tencent.com/document/product"" hotrep=""hp.header.document"">        </a> </li> <li class=""presentation J-qcTopNavItem"" data-id=""resource"" data-action=""expand"" data-title=""      ""> <a role=""button"" href=""javascript:;"" hotrep=""hp.header.resource"">        </a> </li> <li class=""presentation J-qcTopNavItem"" data-id=""cooperate"" data-action=""expand"" data-title=""               ""> <a role=""button"" href=""javascript:;"" hotrep=""hp.header.cooperate"">                 </a> </li> <li class=""presentation J-qcTopNavItem"" data-id=""customer"" data-action=""link"" data-title=""      ""> <a role=""button"" href=""https://cloud.tencent.com/customer"" hotrep=""hp.header.customer"">        </a> </li> <li class=""presentation more J-qcTopNavMore"" tabindex=""-1"" style=""display: none""> <div class=""c-nav-dropdown-btn J-qcTopNavMoreItem"" hotrep=""hp.header.more""> <a href=""javascript:;"" class=""c-nav-dropdown-btn-inner""> <span class=""nav-dropdown-btn-txt"">      </span> </a> <div class=""c-bubble c-bubble-top J-qcTopNavDropdownWrapper"" style=""display:none""> <div class=""c-bubble-inner""> <div class=""nav-dropdown-mini""> <div class=""dropdown-mini-inner dropdown-mini-lang""> <div class=""dropdown-mini-list""> <ul class=""J-qcTopNavDropdown""> </ul> </div> </div> </div> </div> </div> </div> </li> </ul> <div class=""top-nav-sheet-wrapper""> <div id=""qcTopNavSheetWrapper"" class=""c-bubble c-bubble-top p-all"" style=""display: none""> <div class=""c-p-dropdown-menu-wrap c-bubble-inner J-qcTopNavBubbleInner c-scrollbar"" data-layout=""1"" data-parent=""product""> <div class=""c-p-dropdown-menu J-qcTopNavBubbleMenu""> <!--            start--> <div class=""c-p-dropdown-menu-lt J-qcTopNavBubbleMenuLt""> <ul class=""p-menu-lt-list""> <li class=""p-menu-lt-item J-qcTopNavBubbleMenuItem actived"" data-menuroot=""hot""> <a href=""javascript:;"">      </a> </li> <li class=""p-menu-lt-item J-qcTopNavBubbleMenuItem"" data-menuroot=""essential""> <a href=""javascript:;"">      </a> </li> <li class=""p-menu-lt-item J-qcTopNavBubbleMenuItem"" data-menuroot=""security""> <a href=""javascript:;"">      </a> </li> <li class=""p-menu-lt-item J-qcTopNavBubbleMenuItem"" data-menuroot=""big-data""> <a href=""javascript:;"">         </a> </li> <li class=""p-menu-lt-item J-qcTopNavBubbleMenuItem"" data-menuroot=""ai""> <a href=""javascript:;"">            </a> </li> <li class=""p-menu-lt-item J-qcTopNavBubbleMenuItem"" data-menuroot=""enterprise""> <a href=""javascript:;"">            </a> </li> <li class=""p-menu-lt-item J-qcTopNavBubbleMenuItem"" data-menuroot=""industry-services""> <a href=""javascript:;"">            </a> </li> <li class=""p-menu-lt-item J-qcTopNavBubbleMenuItem"" data-menuroot=""developer""> <a href=""javascript:;"">               </a> </li> </ul> </div> <!--            end--> <div class=""c-p-dropdown-menu-con-wrap c-scrollbar J-qcTopNavBubbleMenuConWrap""> <div class=""c-p-dropdown-menu-con J-qcTopNavBubbleMenuCon""> <div class=""c-p-dropdown-menu-main J-qcPdMenuMain""> <div class=""p-all-bar J-qcPdMenuSearchBar""> <div class=""p-all-search J-qcTopNavSearchArea""> <input tabindex=""-1"" class=""c-search-input J-qcTopNavSearchInput"" placeholder=""                                    "" hotrep=""hp.header.product.search""> <button class=""c-search-btn"" tabindex=""-1"">      </button> <ul class=""p-all-search-list c-scrollbar J-qcTopNavAllSearchList"" style=""display: none;z-index: 1""> </ul> </div> </div> <div class=""p-menu-main-con J-qcPdMenuCon"" data-menuparent=""hot""> <div class=""p-menu-main-col""> <div class=""p-menu-main-box J-qcPdMenuBox""> <div class=""p-menu-main-box-hd""> <span class=""J-qcPdMenuCategory""> <img class=""p-menu-icon"" src=""https://main.qcloudimg.com/raw/e129d6aeedc113c51cf72089b0a53610.svg"">             </span> </div> <div class=""p-menu-main-box-bd""> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/cvm"" hotrep=""hp.top-nav.hot-products.cvm"">            </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/ba"" hotrep=""hp.top-nav.hot-products.ba"">            </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://dnspod.cloud.tencent.com/?from=qcloudProductDns"" hotrep=""hp.top-nav.hot-products.qpd"">            </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/cos"" hotrep=""hp.top-nav.hot-products.cos"">            </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/cdn"" hotrep=""hp.top-nav.hot-products.cdn"">                  </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/cdb"" hotrep=""hp.top-nav.hot-products.cdb"">             MySQL</a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/ocr"" hotrep=""hp.top-nav.hot-products.ocr"">            </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/sms"" hotrep=""hp.top-nav.hot-products.sms"">      </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/im"" hotrep=""hp.top-nav.hot-products.im"">         </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/lvb"" hotrep=""hp.top-nav.hot-products.lvb"">         </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/vod"" hotrep=""hp.top-nav.hot-products.vod"">         </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/tcb"" hotrep=""hp.top-nav.hot-products.tcb"">         </a> </div> </div> </div> </div> <div class=""p-menu-main-col""> <div class=""p-menu-main-box J-qcPdMenuBox""> <div class=""p-menu-main-box-hd""> <span class=""J-qcPdMenuCategory""> <img class=""p-menu-icon"" src=""https://main.qcloudimg.com/raw/284d0c288b4ba8629e6d80fd669ddbd1.svg"">             </span> </div> <div class=""p-menu-main-box-bd""> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/bri"" hotrep=""hp.top-nav.recent-products.bri"">                  </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/tbp"" hotrep=""hp.top-nav.recent-products.tbp"">                        </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/afc"" hotrep=""hp.top-nav.recent-products.afc"">            </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/solar"" hotrep=""hp.top-nav.recent-products.solar"">                        </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/mgobe"" hotrep=""hp.top-nav.recent-products.mgobe"">                           </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/dasb"" hotrep=""hp.top-nav.recent-products.dasb"">                                 </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/rcp"" hotrep=""hp.top-nav.recent-products.rcp"">            </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/tlab"" hotrep=""hp.top-nav.recent-products.tlab"">                        </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/tav"" hotrep=""hp.top-nav.recent-products.tav"">               </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/tpns"" hotrep=""hp.top-nav.recent-products.tpns"">                  </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/tcd"" hotrep=""hp.top-nav.recent-products.tcd"">         </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/tepm"" hotrep=""hp.top-nav.recent-products.tepm"">                        </a> </div> </div> </div> </div> <div class=""p-menu-main-col""> <div class=""p-menu-main-box J-qcPdMenuBox""> <div class=""p-menu-main-box-hd""> <span class=""J-qcPdMenuCategory""> <img class=""p-menu-icon"" src=""https://main.qcloudimg.com/raw/dd94dd931cc20d1b04875dbe1d34b5ad.svg"">             </span> </div> <div class=""p-menu-main-box-bd""> <a href=""https://cloud.tencent.com/document/product/236/33206"" class=""p-menu-p-link"" hotrep=""hp.top-nav.publish.event-1"">             MySQL                               </a> <a href=""https://cloud.tencent.com/document/product/583/9694#.E9.87.8D.E8.AF.95.E6.9C.BA.E5.88.B6"" class=""p-menu-p-link"" hotrep=""hp.top-nav.publish.event-2"">                      SCF                               </a> <a href=""https://cloud.tencent.com/document/product/213/2178"" class=""p-menu-p-link"" hotrep=""hp.top-nav.publish.event-3"">                                                </a> <a href=""https://cloud.tencent.com/document/product/557/31035"" class=""p-menu-p-link"" hotrep=""hp.top-nav.publish.event-4"">                                             </a> <a href=""https://cloud.tencent.com/document/product/237/30948"" class=""p-menu-p-link"" hotrep=""hp.top-nav.publish.event-5"">MariaDB                                                          </a> <a target=""_blank"" href=""https://cloud.tencent.com/product/events"" class=""p-menu-p-link icon"" hotrep=""hp.top-nav.publish."">               </a> </div> </div> </div> </div> <div class=""p-menu-main-con J-qcPdMenuCon"" data-menuparent=""essential"" style=""display: none""> <div class=""p-menu-main-col""> <div class=""p-menu-main-box J-qcPdMenuBox""> <div class=""p-menu-main-box-hd""> <span class=""J-qcPdMenuCategory""> <img class=""p-menu-icon"" src=""https://main.qcloudimg.com/raw/ac2ab2e3024fa3afcfeaa65f5c679bb7.svg"">       </span> </div> <div class=""p-menu-main-box-bd""> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/cvm"" hotrep=""hp.top-nav.compute.cvm"">            </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/gpu"" hotrep=""hp.top-nav.compute.gpu"">GPU             </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/fpga"" hotrep=""hp.top-nav.compute.fpga"">FPGA             </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/cdh"" hotrep=""hp.top-nav.compute.cdh"">               </a> </div> <div class=""p-menu-p-card""> <a class=""p-menu-p-card-hd J-qcPdMenuProduct"" href=""https://cloud.tencent.com/product/cpm"" hotrep=""hp.top-nav.compute.cpm"">                     2.0</a> <div class=""p-menu-p-card-bd""> <div> <a href=""https://cloud.tencent.com/product/arm"" class=""p-menu-p-link-border J-qcPdMenuChildProduct"" hotr",139.199.18.10
+webcam,"220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 1 of 5000 allowed.
+
+220-Local time is now 20:10. Server port: 21.
+
+220-This is a private system - No anonymous login
+
+220 You will be disconnected after 15 minutes of inactivity.
+
+
+220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 3 of 5000 allowed.
+
+220-Local time is now 20:10. Server port: 21.
+
+220-This is a private system - No anonymous login
+
+220 You will be disconnected after 15 minutes of inactivity.
+
+
+215 UNIX Type: L8  331 User anonymous OK. Password required
+
+530 Login authentication failed  530 You aren't logged in  220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 4 of 5000 allowed.
+
+220-Local time is now 20:10. Server port: 21.
+
+220-This is a private system - No anonymous login
+
+220 You will be disconnected after 15 minutes of inactivity.
+
+
+500 This security scheme is not implemented
+
+SSH-2.0-OpenSSH_5.3                ssh-rsa    #       bor5     / zh   S' @   =q#o2   E}   /.BjX }  < .     $    |N H f  *h   (q ( e YR  X    R hsv        T      }  = ss^ee#  _{   %  DHu 0  `   D}     au 9G l p S%j     W .    k ?    `wcO FSE =#z6@ v   * T:= hy  %|    j  y^    3     u ZW      ~ `   KND   0Q      Z Y  f  !  >  { K 7 C  U#  S w  yU J   ^p`    e   M      fO*  4 c  =  7     n /QK       Sc   Y  KG a A  s   { J  o' Ach  q  R}:         ssh-rsa     h  '   l e&  G  ;  Un   saD!    M H S    95WK5   E    T #? 1  6         7_ 6   j      a e o~: xf2?  w    7  6 i  Wc    4 b6p   A*   Y   3  ?  v  / fj -  -AxL     /  -   3 w   \|t     ry    q\      QE   ,o  ]    $u  .$ (  /q         pA( +    JM  >    ac 6E                             D  ' tV  { R  E       ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                          D   'w d  A  J   8    ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                       Protocol major versions differ.
+   D  R !z  & ` 1{P^     ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                          D      ]    a~=  n    ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                          D  eJ>    g O    ""    ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                          D  Y l I   `yB  E     ~diffie-hellman-group-exchange-sha256,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1    ssh-rsa,ssh-dss    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael-cbc@lysator.liu.se    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    hmac-md5,hmac-sha1,umac-64@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-ripemd160,hmac-ripemd160@openssh.com,hmac-sha1-96,hmac-md5-96    none,zlib@openssh.com    none,zlib@openssh.com                       RFB 003.008   HTTP/1.1 200 OK  Server: nginx  Date: Mon, 08 Apr 2019 12:10:46 GMT  Content-Type: httpd/unix-directory  Content-Length: 0  Connection: close  Allow: GET,HEAD,POST,OPTIONS,TRACE    HTTP/1.1 200 OK  Server: nginx  Date: Mon, 08 Apr 2019 12:10:46 GMT  Content-Type: httpd/unix-directory  Content-Length: 0  Connection: close  Allow: GET,HEAD,POST,OPTIONS,TRACE             ss00000010: 68 2d 64 73 73 00 00 00 81 00 87 49 b5 6c a9 9e h-dss      I l  
+00000020: 2a f3 94 0a 6c 21 52 51 67 bb 4f 57 81 ce f2 f8 *   l!RQg OW    
+00000030: 62 93 9f 9e 8c 02 8a 4e 0c 5a 04 3e 10 bb a8 f6 b      N Z >    
+00000040: 84 05 00 3e eb 80 43 f1 18 db da ef 7c bc 76 1e    >  C     | v 
+00000050: 83 d2 39 31 f2 ce fa 28 2e 66 7d ea b3 8d 6a 6b   91   (.f}   jk
+00000060: da d5 32 1f 08 0e 82 e0 ad 62 8e 3b 84 28 ae 88   2      b ; (  
+00000070: 15 bd eb a3 a1 0b a2 85 de 47 37 c4 35 1e 79 e4          G7 5 y 
+00000080: bb 0d b5 a8 1b d2 8f 6c dd 50 a6 c7 d1 18 52 3d        l P    R=
+00000090: ec 93 82 e6 96 a4 8d c6 60 43 00 00 00 15 00 a2         `C      
+000000a0: b8 3c 46 c5 51 27 43 df 2a fb 9f 81 e7 90 f6 4b  <F Q'C *      K
+000000b0: 7d 60 97 00 00 00 80 15 6a c1 a5 fe f3 7b 85 8e }`      j    {  
+000000c0: 3c 01 26 18 81 ab 96 3b be b1 3f e0 bf 7c 26 7f < &    ;  ?  |& 
+000000d0: 3e 36 4a b2 21 77 c1 e3 b0 26 15 92 68 14 2e 74 >6J !w   &  h .t
+000000e0: 07 9d 72 3d 3d 4d d1 b6 d6 2e 25 fc 30 08 c8 c7   r==M   .% 0   
+000000f0: 8c bc 4c 40 f2 f0 26 09 6e d1 29 cd df 30 9f e0   L@  & n )  0  
+00000100: 8d 73 57 ed 35 56 d2 0f 79 27 a1 c8 75 1e 76 5f  sW 5V  y'  u v_
+00000110: 60 0e e5 09 ea fa de 9b c3 ce 77 e7 c0 58 b4 c3 `         w  X  
+00000120: 8e f5 a4 ff ff 13 7f 68 00 b4 76 16 67 aa 47 35        h  v g G5
+00000130: 3d 02 c6 b3 13 94 2b 00 00 00 80 0d 85 34 ee 77 =     +      4 w
+00000140: 78 0c c9 86 cb 73 fa e4 bf b6 98 42 a0 ae d2 99 x    s     B    
+00000150: 92 23 fd 67 56 4a 54 a5 5a 9f 90 2b 64 2b b8 89  # gVJT Z  +d+  
+00000160: cc ec 63 4d 7e 5d 76 c3 e6 b4 d4 7b 21 aa e2 ac   cM~]v    {!   
+00000170: 55 cd 9e 8e 4d 1b bd 14 3a 18 b8 f5 61 4d 85 f7 U   M   :   aM  
+00000180: 21 29 3f 03 82 22 f5 4f ed 91 7c c0 ec 08 f0 6a !)?  "" O  |    j
+00000190: 05 8f 23 10 ca 5e 76 e3 eb 71 8e 5b 38 cf d1 1e   #  ^v  q [8   
+000001a0: 99 b1 49 e8 50 d1 f7 96 89 9a bd 4c 0d 2a ce 18   I P      L *  
+000001b0: ca 01 ab 03 1b 5d 16 e4 7e 86 b3 00 00 00 81 00      ]  ~       
+000001c0: c2 d7 7c a5 c9 e9 84 47 53 6a 5d 89 17 2c ed d6   |    GSj]  ,  
+000001d0: 92 8d aa 11 fa a4 6f 04 7d ce 0c bf ee 00 e6 a4       o }       
+000001e0: 81 74 d9 b7 bb d7 10 9a 92 eb 0d 48 d4 e9 a2 7c  t         H   |
+000001f0: 12 d0 ec 9f 3a b8 9c 7b 1b ec 1d c9 25 53 62 ba     :  {    %Sb 
+00000200: 08 97 53 3f 67 17 a5 9f 79 29 51 43 20 b6 b2 4b   S?g   y)QC   K
+00000210: 3d 3e 0d ee 50 c7 17 a1 46 fe 49 b0 92 45 c1 4f =>  P   F I  E O
+00000220: a2 64 dc 61 70 fc cc e8 08 5c aa 73 d6 11 c8 3e  d ap    \ s   >
+00000230: 44 f0 a9 09 dc 70 46 04 fa d4 90 e0 da f7 aa e4 D    pF         
+00000240: 00 00 00 37 00 00 00 07 73 73 68 2d 64 73 73 00    7    ssh-dss 
+00000250: 00 00 28 00 8f c5 d8 45 73 d7 fc d1 d4 20 23 3e   (    Es     #>
+00000260: 53 13 13 b4 02 76 10 49 71 f6 65 ee 36 06 ca 5e S    v Iq e 6  ^
+00000270: ab 24 d7 86 e9 ec e3 52 37 68 cd 00 00 00 00 00  $     R7h      
+00000280: 00 00 00 0c 0a 15 00 00 00 00 00 00 00 00 00 00                 
+
+",139.199.18.119
+webcam,"HTTP/1.1 403 Forbidden    HTTP/1.1 404 Not Found  Server: openresty  Date: Mon, 08 Apr 2019 12:07:29 GMT  Content-Type: text/html; charset=UTF-8  Content-Length: 166  Connection: close    <html>  <head><title>404 Not Found</title></head>  <body bgcolor=""white"">  <center><h1>404 Not Found</h1></center>  <hr><center>openresty</center>  </body>  </html>  HTTP/1.1 403 Forbidden    HTTP/1.1 403 Forbidden  Server: openresty  Date: Mon, 08 Apr 2019 12:07:29 GMT  Content-Type: text/html; charset=UTF-8  Content-Length: 166  Connection: close    <html>  <head><title>403 Forbidden</title></head>  <body bgcolor=""white"">  <center><h1>403 Forbidden</h1></center>  <hr><center>openresty</center>  </body>  </html>  ",139.199.18.135
+webcam,"HTTP/1.1 404 Not Found  Server: openresty  Date: Mon, 08 Apr 2019 12:33:29 GMT  Content-Type: text/html  Content-Length: 166  Connection: close    <html>  <head><title>404 Not Found</title></head>  <body bgcolor=""white"">  <center><h1>404 Not Found</h1></center>  <hr><center>openresty</center>  </body>  </html>  ",139.199.18.206
+webcam,"HTTP/1.1 200 OK  Server: Tengine  Date: Mon, 08 Apr 2019 12:08:10 GMT  Content-Type: text/html;charset=utf-8  Transfer-Encoding: chunked  Connection: close  X-Powered-By: PHP/5.4.16  Set-Cookie: PHPSESSID=hfh1i9hf7b8mlmq3fjhh780dl7; path=/  Expires: Thu, 19 Nov 1981 08:52:00 GMT  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0  Pragma: no-cache  P3P: CP=""IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT""    35  ~~                                                !~~  0    <!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">  <html>  <head><title>400 Bad Request</title></head>  <body bgcolor=""white"">  <h1>400 Bad Request</h1>  <p>Your browser sent a request that this server could not understand. Sorry for the inconvenience.<br/>  Please report this message and include the following information to us.<br/>  Thank you very much!</p>  <table>  <tr>  <td>URL:</td>  <td>http://</td>  </tr>  <tr>  <td>Server:</td>  <td>10_105_148_203</td>  </tr>  <tr>  <td>Date:</td>  <td>2019/04/08 20:08:10</td>  </tr>  </table>  <hr/>Powered by Tengine</body>  </html>  <!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">  <html>  <head><title>400 Bad Request</title></head>  <body bgcolor=""white"">  <h1>400 Bad Request</h1>  <p>Your browser sent a request that this server could not understand. Sorry for the inconvenience.<br/>  Please report this message and include the following information to us.<br/>  Thank you very much!</p>  <table>  <tr>  <td>URL:</td>  <td>http://</td>  </tr>  <tr>  <td>Server:</td>  <td>10_105_148_203</td>  </tr>  <tr>  <td>Date:</td>  <td>2019/04/08 20:08:14</td>  </tr>  </table>  <hr/>Powered by Tengine</body>  </html>  ",139.199.18.241
+webcam,"HTTP/1.1 404 Not Found  Server: openresty  Date: Mon, 08 Apr 2019 12:19:50 GMT  Content-Type: text/html  Content-Length: 166  Connection: close    <html>  <head><title>404 Not Found</title></head>  <body bgcolor=""white"">  <center><h1>404 Not Found</h1></center>  <hr><center>openresty</center>  </body>  </html>  ",139.199.18.38
+webcam,"HTTP/1.1 301 Moved Permanently  Server: kws  Date: Mon, 08 Apr 2019 12:15:05 GMT  Content-Type: text/html  Content-Length: 176  Connection: close  Location: http://www.duba.com    <html>  <head><title>301 Moved Permanently</title></head>  <body bgcolor=""white"">  <center><h1>301 Moved Permanently</h1></center>  <hr><center>kws</center>  </body>  </html>  ",139.199.18.76
+webcam,RTSP/1.0 404 Not Found  CSeq: 1    ,176.205.21.146
+webcam,"HTTP/1.1 400 Bad Request
+Date: Mon, 08 Apr 2019 21:58:09 GMT
+
+Server: Apache
+
+Content-Length: 362
+
+Connection: close
+
+Content-Type: text/html; charset=iso-8859-1
+
+
+
+<!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN"">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+Reason: You're speaking plain HTTP to an SSL-enabled server port.<br />
+ Instead use the HTTPS scheme to access this URL, please.<br />
+</p>
+</body></html>
+
+HTTP/1.1 403 Forbidden  Date: Mon, 08 Apr 2019 21:58:13 GMT  Server: Apache  Content-Length: 217  Connection: close  Content-Type: text/html; charset=iso-8859-1    <!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN""> <html><head> <title>403 Forbidden</title> </head><body> <h1>Forbidden</h1> <p>You don't have permission to access /tasktracker.jsp on this server.</p> </body></html> ",176.86.234.230
+webcam,RTSP/1.0 404 Not Found  CSeq: 1    ,178.48.163.164
+webcam,"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 3 of 10 allowed.
+
+220-Local time is now 09:51. Server port: 21.
+
+220 You will be disconnected after 10 minutes of inactivity.
+
+
+215 UNIX Type: L8  220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 10 allowed.
+
+220-Local time is now 09:51. Server port: 21.
+
+220 You will be disconnected after 10 minutes of inactivity.
+
+
+    J   F   f   a   2      l      $    vw        .   .   i #  ?D    y - c  ^ /     5   1  .  +0  '0             $NjGc 0   * H        0 1 0   U    192.168.0.1000   190222104748Z  200222104748Z0 1 0   U    192.168.0.1000  0   * H            0         f      J  o  (+;O{(   g    9 R  O    _  `~)  p i C  -  i  e    {   C#   fg +:    '     $n   9   ?  B    H     7    U]Ga um7        y0w0   U         Y    m   .     X 0H  U # A0?     Y    m   .     X     0 1 0   U    192.168.0.100     $NjGc 0   U    0    0   * H                   ] !  ( '      O '~   *)         q  &7 D \    Xy  ]T      S+ ) L          n    { =    P   _ xw ~  &   n]lG ? <nr      ta           234 AUTH TLS OK.  530 You aren't logged in  220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 2 of 10 allowed.
+
+220-Local time is now 09:51. Server port: 21.
+
+220 You will be disconnected after 10 minutes of inactivity.
+
+
+530 This is a private system - No anonymous login
+
+HTTP/1.1 403 Forbidden  Date: Mon, 08 Apr 2019 17:51:53 GMT  Server: Apache  X-Frame-Options: sameorigin  Content-Length: 212  Connection: close  Content-Type: text/html; charset=iso-8859-1    <!DOCTYPE HTML PUBLIC ""-//IETF//DTD HTML 2.0//EN""> <html><head> <title>403 Forbidden</title> </head><body> <h1>Forbidden</h1> <p>You don't have permission to access /sdk on this server.<br /> </p> </body></html> ",178.48.163.253
+webcam,"RTSP/1.0 400 Bad Request  Server: TVT RTSP Server/1.0.0  CSeq: 0  Date: Mon, Apr 08 2019 23:24:09 GMT  Expires: Mon, Apr 08 2019 23:24:09 GMT  Allow: OPTIONS, DESCRIBE, SETUP, TEARDOWN, PLAY, GET_PARAMETER, SET_PARAMETER    ",181.199.246.223
+webcam,"HTTP/1.1 200 OK  CONNECTION: close  CONTENT-LENGTH: 7078  P3P: CP=CAO PSA OUR  CONTENT-TYPE: text/html       <!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">  <html>   <head>  <title>INTELBRAS</title>  <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" >  <meta http-equiv=""X-UA-Compatible"" content=""IE=6;IE=7; IE=8; IE=EmulateIE7"" />  <script type=""text/javascript"" src=""jsCore/m.js""></script>  <script type=""text/javascript"" src=""jsCore/more.js""></script>  <script type=""text/javascript"" src=""jsCore/md5.js""></script>  <script type=""text/javascript"" src=""jsCore/base64.js""></script>  <script type=""text/javascript"" src=""jsCore/rpcCore.js""></script>  <script type=""text/javascript"" src=""jsCore/rpcLogin.js""></script>  <script type=""text/javascript"" src=""js/loginEx.js""></script>  <script type=""text/javascript"" src=""js/index.js""></script>    <link rel=""stylesheet"" type=""text/css"" media=""screen"" href=""css/index.css"" />    </head>  <body onscroll=""$('nav_margin').style.visibility = 'hidden'; $('nav_margin').style.visibility = 'visible'"">    <!--loading-->  <div id=""loading"" class=""J_load_dialog"">      <p id=""lab_loading"" class=""J_load_p"">                     ....</p>  </div>  <!--loading end-->  <div id=""l"" class=""loginC"">       <div class=""login"">         <div class=""loginInput"">              <div class=""logo""></div>              <di  Sorry, Dear! telnet service is still in lock-time,  You have to wait 19 min 58 sec,  If you have any problem, ask administrator for help.  ",186.213.46.231
+webcam,"HTTP/1.1 200 OK  Date: Tue, 09 Apr 2019 01:00:38 GMT  Server: DNVRS-Webs  ETag: ""0-be9-1e0""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Mon, 07 Sep 2015 06:31:21 GMT       <!doctype html>  <html>  <head>   <title></title>   <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />   <meta http-equiv=""X-UA-Compatible"" content=""IE=edge"" >   <meta http-equiv=""Pragma"" content=""no-cache"" />   <meta http-equiv=""Cache-Control"" content=""no-cache, must-revalidate"" />   <meta http-equiv=""Expires"" content=""0"" />  </head>  <body>  </body>  <script>   window.location.href = ""/doc/page/login.asp?_"" + (new Date()).getTime();  </script>  </html>RTSP/1.0 404 Not Found  CSeq: 1    ",187.5.114.187
+webcam,"HTTP/1.1 404 Not Found
+Server: thttpd/2.25b 29dec2003
+
+Content-Type: text/html; charset=utf-8
+
+Date: Mon, 08 Apr 2019 05:57:43 GMT
+
+Last-Modified: Mon, 08 Apr 2019 05:57:43 GMT
+
+Accept-Ranges: bytes
+
+Connection: close
+
+Cache-Control: no-cache,no-store
+
+
+
+<HTML>
+<HEAD><TITLE>404 Not Found</TITLE></HEAD>
+<BODY BGCOLOR=""#cc9999"" TEXT=""#000000"" LINK=""#2020ff"" VLINK=""#4040cc"">
+<H2>404 Not Found</H2>
+The requested URL '/robots.txt' was not found on this server.
+<HR>
+<ADDRESS><A HREF=""http://www.acme.com/software/thttpd/"">thttpd/2.25b 29dec2003</A></ADDRESS>
+</BODY>
+</HTML>
+
+",189.90.144.235
+webcam,"HTTP/1.1 200 OK  X-UA-Compatible: IE=EmulateIE9, requiresActiveX=true  Cache-Control: no-store, no-cache, must-revalidate  Content-Type: text/html  Accept-Ranges: bytes  ETag: ""1185955540""  Last-Modified: Thu, 24 Jul 2014 01:27:24 GMT  Content-Length: 6773  Connection: close  Date: Mon, 08 Apr 2019 10:58:59 GMT  Server: lighttpd/1.4.32       <html xmlns=""http://www.w3.org/1999/xhtml"">  <head>  <title>Web Viewer for Samsung DVR</title>  <meta http-equiv=""Cache-Control"" content=""no-cache"" />  <meta http-equiv=""Expires"" content=""0"" />  <meta http-equiv=""Pragma"" content=""no-cache"" />  <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />  <script type=""text/javascript"" src=""/js/BrowserDetect.js"" ></script>  <script type=""text/javascript"" language=""javascript"">        function getOSInfoStr() {          var ua = navigator.userAgent;            if (ua.indexOf(""NT 6.0"") != -1) {              return true;          }          else if (ua.indexOf(""NT 6.1"") != -1) {              return true;          }          else if (ua.indexOf(""NT 5.2"") != -1) {              return true;          }          else if (ua.indexOf(""NT 5.1"") != -1) {              return true;          }          else if (ua.indexOf(""NT 5.0"") != -1) {              return true;          }          else if (ua.indexOf(""NT"") != -1) {              return true;          }          else if (ua.indexOf(""9x 4.90"") != -1) {              return true;          }          else if (ua.indexOf(""98"") != -1) {              return true;          }          else if (ua.indexOf(""95"") != -1) {              return true;          }          else if (ua.indexOf(""Win16"") != -1) {              return true;          }          else if (ua.indexOf(""Windows"") != -1) {              return true;          }          else if (ua.indexOf(""Linux"") != -1) {              return false;          }          else if (ua.indexOf(""Macintosh"") != -1) {              return false;          }          else {              return false;          }      }          // by chul      function browserCheck() {          var ver = 0; //                                     var strbrowser = """";          if (navigator.appName.charAt(0) == ""N"") {              if (navigator.userAgent.indexOf(""Chrome"") != -1) {                  strbrowser = ""Chrome"";                  //   ver = getInternetVersion(""Chrome"");                  //   alert(""Chrome""+ver+""         ."");               }              else if (navigator.userAgent.indexOf(""Firefox"") != -1) {                  strbrowser = ""Firefox"";                  ///   ver = getInternetVersion(""Firefox"");                  //   alert(""Firefox""+ver+""         ."");              }              else if (navigator.userAgent.indexOf(""Safari"") != -1) {                  strbrowser = ""Safari"";                  //ver = getInternetVersion(""Safari"");                  //   alert(""Safari""+ver+""         ."");              }              //  else              //   alert(""Safari         ."");                return strbrowser;          }          else if (navigator.appName.charAt(0) == ""M"") {              strbrowser = ""MSIE"";              //  ver = getInternetVersion(""MSIE"");              //  alert(""MSIE         ."");              return strbrowser;          }          else {              //   alert(""Safari         ."");                return strbrowser;          }      }        function stop() {          return false;      }      //document.onmousewheel = stop;        function getQuerystring(key, default_) {          if (default_ == null) default_ = """";          key = key.replace(/[\[]/, ""\\\["").replace(/[\]]/, ""\\\]"");          var regex = new RegExp(""[\\?&]"" + key + ""=([^&#]*)"");          var qs = regex.exec(window.location.href);          if (qs == null)              return default_;          else              return qs[1];      }        function GetContentFrameSrc() {          var strSrc = ""about:blank"";          var strIP = getQuerystring(""ip"");          var strPORT = getQuerystring(""port"");          var strAction = getQuerystring(""action"");            if (strAction == """" ||              (strAction != ""live"" && strAction != ""search""  && strAction != ""setup"") )              strAction = ""live"";            if (BrowserDetect.OS == 'Windows') {                if (BrowserDetect.browser == 'Explorer') {                  strSrc = ""/cgi-bin/webviewer?action="" + strAction + ""&ip="" + strIP + ""&port="" + strPORT;              }              else if ( (BrowserDetect.browser == 'Firefox' && BrowserDetect.version >= 3.6) ||                        (BrowserDetect.browser == 'Chrome' && BrowserDetect.version >= 12) ) {                  strSrc = ""/cgi-bin/sl_webviewer?ip="" + strIP + ""&port="" + strPORT;              }              else                  strSrc = ""/cgi-bin/webviewer?action="" + strAction + ""&ip="" + strIP + ""&port="" + strPORT;            }          else if (BrowserDetect.OS == 'Mac') {                if ( (BrowserDetect.browser == 'Safari' && BrowserDetect.version >= 4) ||                   (BrowserDetect.browser == 'Firefox' && BrowserDetect.version >= 3.6)) {                  strSrc = ""/cgi-bin/sl_webviewer?ip="" + strIP + ""&port="" + strPORT;              }              else                  strSrc = ""/cgi-bin/webviewer?action="" + strAction + ""&ip="" + strIP + ""&port="" + strPORT;          }            return strSrc;      }        function body_onload() {            //document.getElementById(""iframeContentFrame"").src = GetContentFrameSrc();            body_onresize();      }        function GetContentFrameLeftPos() {          var niFramePositionLeft;          var niFrameWidth = document.getElementById(""iframeContentFrame"").width;            niFramePositionLeft = (document.body.clientWidth - niFrameWidth) / 2;            if (niFramePositionLeft < 0)              niFramePositionLeft = 0;            return niFramePositionLeft;      }        ///// 20120807 by kjw      ///// ActiveX                                                   (center       ) ie8                                                                                .      /////           body           onresize                                                           .      function body_onresize() {          document.getElementById(""iframeContentFrame"").style.left = GetContentFrameLeftPos();      }    </script>  </head>    <body onload=""body_onload();"" leftmargin=0 topmargin=0 oncontextmenu=""return false"" onresize=""body_onresize()"">    <script type=""text/javascript"" language=""javascript"">      ///// 20120820 kjw      ///// html           iframe                                                                                       ///// body_onload()       src                                            2                                          /////                     document.write                   .      document.write(""<iframe id='iframeContentFrame' src = '"" + GetContentFrameSrc() + ""' style='position:absolute;top:18px;left:0px' name='content_frame' width=1000 height=655 scrolling=no frameborder=0 marginwidth=0 marginheight=0></iframe>"");        body_onresize();  </script>    </body>  </html>    J   F  \ E  Y   / m    4  r o 0   C @ ,     %W    0r #           C    S  /     +   '  $  !0   0          c . 0   * H        0S1 0   U    GB1 0   U    cbn1 0   U    cbn1 0   U    cbn1 0   U    cbn1 0   U    cbn0   150529025316Z  350524025316Z0S1 0   U    GB1 0   U    cbn1 0   U    cbn1 0   U    cbn1 0   U    cbn1 0   U    cbn0  0   * H            0        2   x  F  x  [      0  #xa   _       g   S   5  R   Q &    @     i                 Ix       K    ) # m e4  P I     B  ZOD   2      0   * H            :  q\U+   a } AYg     n u N  X^2oY }:',   $   A    -g B  H   ,  j  (  Y  I   L e        S{    IH   ^G kER5 :T <`P #  e  5f +! Mf         ",217.103.226.51
+webcam,"HTTP/1.0 200 OKContent-type: application/binary
+Server: uc-httpd 1.0.0
+Expires: 0
+
+<html><head><title>404 File Not Found</title></head>
+<body>The requested URL was not found on this server</body></html>
+
+",62.231.119.160
+webcam,"HTTP/1.1 200 OK  Server:Cross Web Server  Content-length: 3233  Content-type: text/html    <html>    <head>    <title>DVR Components Download</title>    <script language='JavaScript' type='text/JavaScript'>        var userAgentString = navigator.userAgent.toLowerCase();      var userPlatform = navigator.platform.toLowerCase();      if(userAgentString.indexOf(""windows ce"") != -1          || userAgentString.indexOf(""ppc"") != -1          || userAgentString.indexOf(""iemobile"") != -1          || userAgentString.indexOf(""windows phone"") != -1          || userAgentString.indexOf(""msiemobile"") != -1          || (userAgentString.indexOf(""htc"")!= -1 && userAgentString.indexOf(""windows"")!= -1))          {             document.location.href = ""PcamEn.htm"";          }        else if(userAgentString.indexOf(""symbianos/9"") != -1          || userAgentString.indexOf(""symbianos/3"") != -1          || userAgentString.indexOf(""series60/3"")!= -1          || userAgentString.indexOf(""series60/4"")!= -1          || userAgentString.indexOf(""series60/5"")!= -1)          {              document.location.href = ""3rd.htm"";          }      else if(userAgentString.indexOf(""blackberry"") != -1)          {              document.location.href = ""wapblackberry.html""          }          else if(userAgentString.indexOf(""windows nt"") != -1          || userPlatform.indexOf(""win32"") != -1)          {              //chrome  IE        chromeframe                   if (user",79.152.227.153
+webcam,"HTTP/1.1 200 OK  Date: Mon, 08 Apr 2019 14:53:08 GMT  Server: DNVRS-Webs  ETag: ""0-277-62d""  Content-Length: 1581  Content-Type: text/html  Connection: close  Last-Modified: Wed, 16 Jul 2014 05:42:53 GMT         +<M                    Smile                                                           MikroTik                                                        RTSP/1.0 404 Not Found  CSeq: 1    ",82.207.44.36
+webcam,"HTTP/1.0 200 OK  Date: Mon Apr  8 14:53:38 2019  RTSP/1.0 401 Unauthorized  CSeq: 1  WWW-Authenticate: Digest realm=""Hikvision"", nonce=""049f990d072c7205525b92bc5be4dabb"", stale=""FALSE""  WWW-Authenticate: Basic realm=""/""    ",82.207.44.98
+webcam,"HTTP/1.1 200 OK  Date: Mon, 08 Apr 2019 17:36:56 GMT  Server: DNVRS-Webs  ETag: ""0-16b5-1e0""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Mon, 06 Feb 2017 05:43:58 GMT    RTSP/1.0 404 Not Found  CSeq: 1    ",91.12.196.197
+webcam,"HTTP/1.1 200 OK  Date: Mon, 08 Apr 2019 04:36:00 GMT  Server: DNVRS-Webs  ETag: ""0-1608-1e0""  Content-Length: 480  Content-Type: text/html  Connection: close  Last-Modified: Fri, 08 Sep 2017 01:48:01 GMT    RTSP/1.0 404 Not Found  CSeq: 1    ",99.195.12.49
